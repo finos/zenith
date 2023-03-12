@@ -6,7 +6,7 @@ Short blurb about what your project does.
 
 ## Meetings
 
-The SIG meets on the first Wednesday of every month at 10:00 US/Eastern. Agendas and conference info for upcoming meetings can be found in the [issues](https://github.com/finos-labs/emerging-technologies/issues). 
+The SIG meets on the last Wednesday of every month at 10:00 US/Eastern. Agendas and conference info for upcoming meetings can be found in the [issues](https://github.com/finos-labs/emerging-technologies/issues). 
 
 ## Contributing to This Repository
 
