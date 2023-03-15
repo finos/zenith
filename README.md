@@ -1,8 +1,8 @@
 [![FINOS - Incubating](https://cdn.jsdelivr.net/gh/finos/contrib-toolbox@master/images/badge-incubating.svg)](https://finosfoundation.atlassian.net/wiki/display/FINOS/Incubating)
 
-# FINOS Emerging Technologies Special Interest Group
+# Proposal to create a FINOS Emerging Technologies Special Interest Group
 
-Welcome to the FINOS Emerging Technologies Special Interest Group (Zenith). The purpose of the Zenith SIG is to explore and promote the adoption of new and innovative technologies in the financial services industry. The concrete goals of the SIG are to:
+Propsing the creation of a FINOS Emerging Technologies Special Interest Group (Zenith). The purpose of the Zenith SIG would be to explore and promote the adoption of new and innovative technologies in the financial services industry. The proposed goals of the SIG are to:
 1. identify and evaluate emerging technologies that have potential to transform the sector 
 2. to share best practices, use cases, and insights for the broader community in the form of webinars, podcasts, and articles.
 
