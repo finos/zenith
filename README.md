@@ -1,6 +1,6 @@
 # Proposal to create a FINOS Emerging Technologies Special Interest Group
 
-Propsing the creation of a FINOS Emerging Technologies Special Interest Group (Zenith). The purpose of the Zenith SIG would be to explore and promote the adoption of new and innovative technologies in the financial services industry. The proposed goals of the SIG are to:
+Proposing the creation of a FINOS Emerging Technologies Special Interest Group (Zenith). The purpose of the Zenith SIG would be to explore and promote the adoption of new and innovative technologies in the financial services industry. The proposed goals of the SIG are to:
 1. identify and evaluate emerging technologies that have potential to transform the sector 
 2. to share best practices, use cases, and insights for the broader community in the form of webinars, podcasts, and articles.
 
