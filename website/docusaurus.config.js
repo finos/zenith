@@ -1,9 +1,7 @@
 // Docs at https://v2.docusaurus.io/docs/configuration
 
 
-// Replace 'project-blueprint' with {project name}
 const projectName = 'Zenith'
-// Replace 'project-blueprint' with {project name}
 const projectSlug = 'zenith'
 // Replace 'FINOS' with {name of copyright owner}
 const copyrightOwner = 'FINOS'
@@ -13,7 +11,7 @@ module.exports = {
   tagline: `FINOS ${projectName}`, 
   url: 'https://finos.org',
   baseUrl: '/',
-  favicon: 'img/favicon/favicon-finos.ico',
+  favicon: 'img/favicon/favicon-zenith.ico',
   projectName: `FINOS ${projectName}`,
   organizationName: 'FINOS',
   customFields: {
@@ -23,10 +21,10 @@ module.exports = {
   stylesheets: ['https://fonts.googleapis.com/css?family=Overpass:400,400i,700'],
   themeConfig: {
     navbar: {
-      title: `FINOS ${projectName}`,
+      title: `${projectName}`,
       logo: {
         alt: 'FINOS Logo',
-        src: 'img/favicon/favicon-finos.ico',
+        src: 'img/zenith/Zenith_Logo_White.svg',
       },
       items: [
         {to: 'docs/home', label: 'Docs', position: 'right'},
