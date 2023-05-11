@@ -61,33 +61,28 @@ Issue a call-to-arms for the community to submit ideas or projects to explore wi
    
 #### 3. SME Vetting
 The **Zenith Brain Trust** [^1] review ideas and give a justification for exploration by the program
-   - Sanity check by the **Brain Trust** to confirm is the ideas are: 
-	1. **Possible**
-	2. **Feasible**
-	3. **Worthwhile**
-	4. **Legal** 
-	5. **Already Explored**
+   - Sanity check by the **Brain Trust** to confirm is the ideas are possible, feasible, worthwhile, legal and/or already explored
    
 #### 4. Value Proposition
-A value proposition is created by participants of the SIG with the maintainer team to establish the predicted impact of exploration
+A value proposition is created by participants of the SIG with the **Maintainer Team**[^2] to establish the predicted impact of exploration
    - A value proposition details the potential return on investment of time/expenditure into the POC project
    - Dependent on available budget & availability of Support Services, priority is given to projects with higher perceived value vs required investment
-   - Value propositions are confidential to the Funding Governance committee to inform their decisions
+   - Value propositions are confidential to the **FINOS Zenith Funding Team** [^3] to inform their decisions
    
 #### 5. Funding Governance
-Pool of representatives from the **FINOS Zenith Funding Team** [^2] vote to approve access to funds or resources to facilitate exploration
+Pool of representatives from the **FINOS Zenith Funding Team** [^3] vote to approve access to funds or resources to facilitate exploration
    - Funding would have a per project cap on both budget and duration (*Details to be confirmed*)
-   - Co-investment of resources can be offered in lieu of funding by **Service Providers** [^3]
+   - Co-investment of resources can be offered in lieu of funding by **Service Providers** [^4]
    - Projects without asks can skip this step
    
 #### 6. Commencement & Recording
-Participants [^4] must provide regular public updates to access drawdown of phased funding. If a project becomes unviable, project funding is reclaimed
-   - Participants [^4] must provide regular public updates to access funding or resources
+**Participants** [^5] must provide regular public updates to access drawdown of phased funding. If a project becomes unviable, project funding is reclaimed
+   - **Participants** [^5] must provide regular public updates to access funding or resources
    - If a project becomes unviable, a record is kept and funding/resources are reclaimed
    - Shelved projects are stored for possible future exploration
    
 #### 7. Showcase
-Participants [^4] create a video presentation of project to share intelligence with future users, talking through issues and learning points to streamline future adoption
+**Participants** [^5] create a video presentation of project to share intelligence with future users, talking through issues and learning points to streamline future adoption
    - Upon project completion, demos and project walkthroughs are recorded to share intelligence with future users
    - These should cover 
 	1. pain points
@@ -95,9 +90,9 @@ Participants [^4] create a video presentation of project to share intelligence w
 	3. solutions for common issues
    
 #### 8. Source Release
-Participants [^4] share their repository to FINOS master repo that perpetuates open source collaboration. Individual Participants[^4] are accredited for their efforts
-   - Participants [^4] share their repositories publicly on the FINOS master
-   - Individual Participants [^4] are accredited for their efforts
+**Participants** [^5] share their repository to FINOS master repo that perpetuates open source collaboration. Individual Participants [^5] are accredited for their efforts
+   - **Participants** [^5] share their repositories publicly on the FINOS master
+   - Individual Participants [^5] are accredited for their efforts
    - Perpetuation of support for open source collaboration is the goal
 
 ### 4. Develop & Curate Open Source Libraries
@@ -114,6 +109,7 @@ Distributed under the [Apache License, Version 2.0](http://www.apache.org/licens
 SPDX-License-Identifier: [Apache-2.0](https://spdx.org/licenses/Apache-2.0)
 
 [^1]: **Brain Trust** - Subject matter experts recognised by the SIG who demonstrate qualification and experience
-[^2]: **FINOS Zenith Funding Team** - FINOS member representatives that receive guidance and choose which projects to priorotise and/or fund
-[^3]: **Service Providers** - FINOS members or FINOS-affiliated companies that provide Technology or Service support to aid in the development of POCs. Can offer subsidised access to services, platforms or talent
-[^4]: **Participants** - Individuals or teams who take part within the POC program and piutch their ideas for funding, working to develop solutions or repositories that create the standards for source release
+[^2]: **MAintainer Team** - The Zenith SIG team who run and co-ordinate the program
+[^3]: **FINOS Zenith Funding Team** - FINOS member representatives that receive guidance and choose which projects to priorotise and/or fund
+[^4]: **Service Providers** - FINOS members or FINOS-affiliated companies that provide Technology or Service support to aid in the development of POCs. Can offer subsidised access to services, platforms or talent
+[^5]: **Participants** - Individuals or teams who take part within the POC program and piutch their ideas for funding, working to develop solutions or repositories that create the standards for source release
