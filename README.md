@@ -4,7 +4,7 @@
 
 ## The FINOS Emerging Technologies Special Interest Group
 
-Welcome to the github repository of the Zenith SIG. The purpose of this special interest group is to explore and promote the adoption of new and innovative technologies in the financial services industry. The  goals of the SIG are to:
+Welcome to the GitHub repository of the Zenith SIG. The purpose of this special interest group is to explore and promote the adoption of new and innovative technologies in the financial services industry. The  goals of the SIG are to:
 
 ---
 
@@ -109,7 +109,7 @@ Distributed under the [Apache License, Version 2.0](http://www.apache.org/licens
 SPDX-License-Identifier: [Apache-2.0](https://spdx.org/licenses/Apache-2.0)
 
 [^1]: **Brain Trust** - Subject matter experts recognised by the SIG who demonstrate qualification and experience
-[^2]: **MAintainer Team** - The Zenith SIG team who run and co-ordinate the program
-[^3]: **FINOS Zenith Funding Team** - FINOS member representatives that receive guidance and choose which projects to priorotise and/or fund
+[^2]: **Maintainer Team** - The Zenith SIG team who run and co-ordinate the program
+[^3]: **FINOS Zenith Funding Team** - FINOS member representatives that receive guidance and choose which projects to prioritise and/or fund
 [^4]: **Service Providers** - FINOS members or FINOS-affiliated companies that provide Technology or Service support to aid in the development of POCs. Can offer subsidised access to services, platforms or talent
-[^5]: **Participants** - Individuals or teams who take part within the POC program and piutch their ideas for funding, working to develop solutions or repositories that create the standards for source release
+[^5]: **Participants** - Individuals or teams who take part within the POC program and pitch their ideas for funding, working to develop solutions or repositories that create the standards for source release
