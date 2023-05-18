@@ -2,6 +2,13 @@
 
 # Welcome to Zenith
 
+## Get Involved!
+
+All SIG related communications are conducted through the zenith@lists.finos.org
+mailing list. Email zenith@lists.finos.org with questions or suggestions for
+collaboration use cases. Join the mailing list and stay up to date by sending a
+note to zenith+subscribe@lists.finos.org .
+
 ## The FINOS Emerging Technologies Special Interest Group
 
 Welcome to the GitHub repository of the Zenith SIG. The purpose of this special interest group is to explore and promote the adoption of new and innovative technologies in the financial services industry. The  goals of the SIG are to:
@@ -97,15 +104,6 @@ Pool of representatives from the **FINOS Zenith Funding Team** [^3] vote to appr
 
 ### 4. Develop & Curate Open Source Libraries
 We seek to create a leading standards for quick starting or sandboxing within each emerging technology. If possible, we also attempt to harmonise with the existing [FINOS Landscape](https://landscape.finos.org/) 
-
----
-
-## Get Involved
-
-All SIG related communications are conducted through the zenith@lists.finos.org
-mailing list. Email zenith@lists.finos.org with questions or suggestions for
-collaboration use cases. Join the mailing list and stay up to date by sending a
-note to zenith+subscribe@lists.finos.org.
 
 ---
 
