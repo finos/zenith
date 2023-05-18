@@ -100,6 +100,15 @@ We seek to create a leading standards for quick starting or sandboxing within ea
 
 ---
 
+## Get Involved
+
+All SIG related communications are conducted through the zenith@lists.finos.org
+mailing list. Email zenith@lists.finos.org with questions or suggestions for
+collaboration use cases. Join the mailing list and stay up to date by sending a
+note to zenith+subscribe@lists.finos.org.
+
+---
+
 ## License
 
 Copyright © 2023 Fintech Open Source Foundation
