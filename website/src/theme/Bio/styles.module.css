@@ -4,8 +4,8 @@
     align-items: center;
 }
 
-.description {
-
+.description p {
+    margin: inherit!;
 }
 
 .headshot {
