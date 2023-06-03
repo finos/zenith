@@ -7,9 +7,9 @@ const projectSlug = 'zenith'
 const copyrightOwner = 'FINOS'
 
 module.exports = {
-  title: `FINOS ${projectName}`,
+  title: `FINOS Emerging Technologies '${projectName}'`,
   tagline: `FINOS ${projectName}`, 
-  url: 'https://finos.org',
+  url: 'https://zenith.finos.org',
   baseUrl: '/',
   favicon: 'img/favicon/favicon-zenith.ico',
   projectName: `FINOS ${projectName}`,
