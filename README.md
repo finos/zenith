@@ -1,4 +1,4 @@
-<img src="website/static/img/zenith/Zenith_Logo.svg" data-canonical-src="https://raw.githubusercontent.com/finos-labs/emerging-technologies/a4e8211ad8b48c1eab2c55a52d1e7621f30ccd67/website/static/img/zenith/Zenith_Logo.svg" width="100" />
+<img src="website/static/img/zenith/Zenith_Logo.svg" width="100" />
 
 # Welcome to Zenith
 
