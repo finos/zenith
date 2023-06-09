@@ -11,7 +11,7 @@ export default function Feature({imageUrl, title, description, about, project, i
     };
 
     return (
-        <div className={classnames('text--center col col--4 padding', styles.feature)}>
+        <div className={classnames('text--center col col--3 padding', styles.feature)}>
             {imgUrl && (
                 <div>
                 <img className={styles.featureImage} src={imgUrl} alt={title} />
