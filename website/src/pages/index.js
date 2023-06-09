@@ -26,7 +26,7 @@ function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted
               )}
-              to={'https://zenith.finos.org/home'}>
+              to={'/docs/home'}>
               GET STARTED
             </Link>
             <Link
