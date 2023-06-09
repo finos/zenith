@@ -9,9 +9,9 @@ As we develop the primers and our repositories, we look beyond exploration into 
 
 ## Apache License & Intellectual Property
 
-* For more reading on this topic, please refer to the FINOS contribution page
+* _For more reading on this topic, please refer to the [FINOS contribution page](https://community.finos.org/docs/governance/Software-Projects/contribution)_
 
-All work created or contributed to within Zenith is subject to the FINOS Intellectual Property Policy. This means that all projects managed by the foundation are licensed under the terms of the Apache License 2.0 (unless explicitly approved by the FINOS Board).
+All work created or contributed to within Zenith is subject to the [FINOS Intellectual Property Policy](https://github.com/finos/community/blob/master/website/static/governance-docs/IP-Policy.pdf). This means that all projects managed by the foundation are licensed under the terms of the Apache License 2.0 (unless explicitly approved by the FINOS Board).
 
 This decision was informed primarily by the following characteristics:
 
