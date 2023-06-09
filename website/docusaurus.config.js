@@ -111,7 +111,7 @@ module.exports = {
           path: '../docs',
           editUrl:
             'https://github.com/finos/open-developer-platform/edit/master/website/',
-          sidebarPath: require.resolve('./sidebars.js')
+          sidebarPath: require.resolve('./sidebars.json')
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
