@@ -69,8 +69,8 @@ Neural<br/>Interfacing
 |1.| Proposal of primer topic at SIG meeting | _Initiation point_ | `■` |
 |2.| Identification of relevant brain trust expert/knowledge gap | _Week 1_ | `■■■■■` |
 |3.| Landscape research and document gathering | _Week 1 - Week 3_ | `■■■■■ ■■■■■ ■■■■■` |
-|4.| Technology readiness assessment & blocker identification | _Week 2 - Week 3_ | `      ■■■■■ ■■■■■` |
-|5.| [ETAC](https://github.com/wso2/ETAC) production | _Week 4_ | |
-|6.| Review | _Week 5_ | |
-|7.| Initial publication | _Week 5_ | |
-|8.| Continual Review &amp; Additions | _Ongoing_ | |
+|4.| Technology readiness assessment & blocker identification | _Week 2 - Week 3_ | `      ■■■■■ ■■■■■       ` |
+|5.| [ETAC](https://github.com/wso2/ETAC) production | _Week 4_ | `                  ■■■■■` |
+|6.| Review | _Week 5_ | `                        ■      ` |
+|7.| Initial publication | _Week 5_ | `                        ■■■■■  ` |
+|8.| Continual Review &amp; Additions | _Ongoing_ | `                                ---->` |
