@@ -92,3 +92,11 @@ body{
   margin-top: 25px;
   margin-bottom: 25px;
 }
+
+.col--15 {
+  --ifm-col-width: 20%;
+}
+
+.col--offset-15 {
+  margin-left: 20%;
+}
