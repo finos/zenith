@@ -2,10 +2,10 @@ import React from 'react';
 
 export const features = [
     {
-        title: <>Feature 1</>,
+        title: <>Primers</>,
         imageUrl: '/img/finos/finos-blue.png',
         description: (
-            <>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</>
+            <>Search our repositories of primers, covering subject introductions, technology readiness, industry landscape analysis and current status of various emerging technologies.</>
         ),
         about: {
             title: <>Placeholder Link</>,
@@ -21,10 +21,10 @@ export const features = [
         }  
     },
     {
-        title: <>Feature 2</>,
+        title: <>Brain Trust</>,
         imageUrl: '/img/finos/finos-blue.png',
         description: (
-            <>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</>
+            <>Find out more about our subject matter experts that comprise the Zenith program or volunteer to share your expertise with the world.</>
         ),
         about: {
             title: <>Placeholder Link</>,
@@ -40,10 +40,29 @@ export const features = [
         }  
     },
     {
-        title: <>Feature 3</>,
+        title: <>POC Program</>,
         imageUrl: '/img/finos/finos-blue.png',
         description: (
-            <>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</>
+            <>Join our proof-of-concept development program to solve technology blockers in emerging technology spaces</>
+        ),
+        about: {
+            title: <>Placeholder Link</>,
+            link: 'docs'
+        },                
+        project: {
+            title: '',
+            link: ''
+        },        
+        involved: {
+            title: '',
+            link: ''
+        }  
+    },
+    {
+        title: <>Libraries</>,
+        imageUrl: '/img/finos/finos-blue.png',
+        description: (
+            <>Contribute to or leverage our libraries of repositories, standards and insights to help realise your vision of emerging technology.</>
         ),
         about: {
             title: <>Placeholder Link</>,

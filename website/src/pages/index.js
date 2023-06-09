@@ -26,7 +26,7 @@ function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted
               )}
-              to={'https://finos.org/'}>
+              to={'/home'}>
               GET STARTED
             </Link>
             <Link
@@ -34,8 +34,16 @@ function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted
               )}
-              to={'https://github.com/finos'}>
+              to={'https://github.com/finos/zenith'}>
               GITHUB
+            </Link>
+            <Link
+              className={classnames(
+                'button button--outline button--secondary button--lg',
+                styles.getStarted
+              )}
+              to={'mailto:zenith+subscribe@lists.finos.org?subject=Subscribe'}>
+              SUBSCRIBE
             </Link>
           </div>
         </div>
