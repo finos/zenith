@@ -200,6 +200,8 @@ article iframe {
 
 .col--15 {
   --ifm-col-width: 20%;
+  border: 1px solid black;
+  text-align: center;
 }
 
 .col--offset-15 {
