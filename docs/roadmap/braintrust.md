@@ -9,7 +9,7 @@ By bringing together the combined might of innovation offices, labs, researchers
 
 ## Process
 
-1. Organisation or self-nomination of candidate based on *Theoretical*, *Technical* or *Commercial* experience or expertise in their discipline
+1. Organisation or self-nomination of candidate based on **Theoretical**, **Technical** or **Commercial** experience or expertise in their discipline
 2. Evaluation of subject matter expertise through evaluation of:
     1. Education & Training
     2. Shared bodies of work 

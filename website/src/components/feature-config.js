@@ -8,8 +8,8 @@ export const features = [
             <>Search our repositories of primers, covering subject introductions, technology readiness, industry landscape analysis and current status of various emerging technologies.</>
         ),
         about: {
-            title: <>Placeholder Link</>,
-            link: 'docs'
+            title: <>Primer Archive</>,
+            link: 'roadmap/primer'
         },        
         project: {
             title: '',
@@ -27,8 +27,8 @@ export const features = [
             <>Find out more about our subject matter experts that comprise the Zenith program or volunteer to share your expertise with the world.</>
         ),
         about: {
-            title: <>Placeholder Link</>,
-            link: 'docs'
+            title: <>Brain Trust Program</>,
+            link: 'roadmap/braintrust'
         },                
         project: {
             title: '',
@@ -46,8 +46,8 @@ export const features = [
             <>Join our proof-of-concept development program to solve technology blockers in emerging technology spaces</>
         ),
         about: {
-            title: <>Placeholder Link</>,
-            link: 'docs'
+            title: <>POC Program</>,
+            link: 'roadmap/poc'
         },                
         project: {
             title: '',
@@ -65,7 +65,7 @@ export const features = [
             <>Contribute to or leverage our libraries of repositories, standards and insights to help realise your vision of emerging technology.</>
         ),
         about: {
-            title: <>Placeholder Link</>,
+            title: <>Zenith Repositories</>,
             link: 'docs'
         },                
         project: {
