@@ -98,6 +98,9 @@ body{
   border: 1px solid black;
   text-align: center;
   height: 85px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
 }
 
 .col--offset-15 {
