@@ -27,11 +27,11 @@ module.exports = {
         src: 'img/zenith/Zenith_Logo_White.svg',
       },
       items: [
-        {to: 'docs/home', label: 'Docs', position: 'right'},
+        {to: 'docs/home', label: 'Getting Started', position: 'right'},
         {to: 'docs/roadmap', label: 'Roadmap', position: 'right'},
         {to: 'docs/team', label: 'Team', position: 'right'},
         {
-          href: 'https://github.com/finos/',
+          href: 'https://github.com/finos/zenith',
           label: 'GitHub',
           position: 'right',
         }
