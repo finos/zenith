@@ -1,6 +1,7 @@
 ---
 id: roadmap-beyond
 title: Beyond Zenith
+sidebar_position: 3
 ---
 
 # Beyond Zenith

@@ -1,6 +1,7 @@
 ---
 id: roadmap-poc
 title: Proof-of-Concept (POC) Program
+sidebar_position: 2
 ---
 
 # Proof-of-Concept (POC) Program

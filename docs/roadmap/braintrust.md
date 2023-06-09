@@ -1,6 +1,7 @@
 ---
 id: roadmap-braintrust
 title: Brain Trust Formation
+sidebar_position: 0
 ---
 
 # Brain Trust Formation

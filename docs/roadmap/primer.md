@@ -1,6 +1,7 @@
 ---
 id: roadmap-primer
 title: Primer Creation
+sidebar_position: 1
 ---
 
 # Primer Creation
