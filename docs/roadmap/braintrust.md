@@ -1,5 +1,5 @@
 ---
-id: braintrust
+id: roadmap-braintrust
 title: Brain Trust Formation
 ---
 

@@ -9,7 +9,7 @@ export const features = [
         ),
         about: {
             title: <>Primer Archive</>,
-            link: 'roadmap/primer'
+            link: 'docs/roadmap/roadmap-primer'
         },        
         project: {
             title: '',
@@ -28,7 +28,7 @@ export const features = [
         ),
         about: {
             title: <>Brain Trust Program</>,
-            link: 'roadmap/braintrust'
+            link: 'docs/roadmap/roadmap-braintrust'
         },                
         project: {
             title: '',
@@ -47,7 +47,7 @@ export const features = [
         ),
         about: {
             title: <>POC Program</>,
-            link: 'roadmap/poc'
+            link: 'docs/roadmap/roadmap-poc'
         },                
         project: {
             title: '',
