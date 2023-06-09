@@ -21,5 +21,7 @@ By bringing together the combined might of innovation offices, labs, researchers
 
 ## Expected Timeline
 
+| Intake phase | Timeline |
+|--------------|----------|
 | Initial Intake   | June - Augus 2023    |
 | Ongoing Intake   | Part of monthly SIG meeting agenda   |
