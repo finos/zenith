@@ -12,27 +12,27 @@ Our initial primer subject list is outlined below, but, as the brain trust grows
 <div class="container">
 <div class="row">
 <div class="text--center col col--2 padding">
-x
+Artifical<br/>Intelligence
 </div>
 <div class="text--center col col--2 padding">
-x
+Natural Language<br/>Processing
 </div>
 <div class="text--center col col--2 padding">
-x
+Spatial Computing
 </div>
 <div class="text--center col col--2 padding">
-x
+Robotics &amp; Process<br/>Automation
 </div>
 <div class="text--center col col--2 padding">
-x
+Crypto-Agility
 </div>
 </div>
 <div class="row">
 <div class="text--center col col--2 padding">
-x
+Blockchain<br/>&amp; DLT
 </div>
 <div class="text--center col col--2 padding">
-x
+IOT, 5G<br/>&amp; 6G
 </div>
 <div class="text--center col col--2 padding">
 x
