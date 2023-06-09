@@ -10,55 +10,55 @@ Taking the expertise of our brain trust, coupled with our own expertise in analy
 
 Our initial primer subject list is outlined below, but, as the brain trust grows and research gets published, we will add, edit and reorder our priorities. Check back often to see the latest and greatest listing:
 
-<div class="container">
+<div class="container padding">
 <div class="row">
-<div class="text--center col col--15 padding">
+<div class="text--center col col--15 ">
 Artifical<br/>Intelligence
 </div>
-<div class="text--center col col--15 padding">
+<div class="text--center col col--15 ">
 Natural Language<br/>Processing
 </div>
-<div class="text--center col col--15 padding">
+<div class="text--center col col--15 ">
 Spatial Computing
 </div>
-<div class="text--center col col--15 padding">
+<div class="text--center col col--15 ">
 Robotics &amp; Process<br/>Automation
 </div>
-<div class="text--center col col--15 padding">
+<div class="text--center col col--15 ">
 Crypto-Agility
 </div>
 </div>
 <div class="row">
-<div class="text--center col col--15 padding">
+<div class="text--center col col--15 ">
 Blockchain<br/>&amp; DLT
 </div>
-<div class="text--center col col--15 padding">
+<div class="text--center col col--15 ">
 IOT, 5G<br/>&amp; 6G
 </div>
-<div class="text--center col col--15 padding">
+<div class="text--center col col--15 ">
 Quantum<br/>Technology
 </div>
-<div class="text--center col col--15 padding">
+<div class="text--center col col--15 ">
 Space<br/>Technology
 </div>
-<div class="text--center col col--15 padding">
+<div class="text--center col col--15 ">
 Cloud<br/>Computing
 </div>
 </div>
 <div class="row">
-<div class="text--center col col--15 padding">
+<div class="text--center col col--15 ">
 Advanced<br/>Data Processing
 </div>
-<div class="text--center col col--15 padding">
+<div class="text--center col col--15 ">
 Next-generation<br/>Materials
 </div>
-<div class="text--center col col--15 padding">
+<div class="text--center col col--15 ">
 3D/4D<br/>Printing
 </div>
-<div class="text--center col col--15 padding">
+<div class="text--center col col--15 ">
 Biotechnology
 </div>
-<div class="text--center col col--15 padding">
+<div class="text--center col col--15 ">
 Neural<br/>Interfacing
 </div>
 </div>

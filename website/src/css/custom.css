@@ -95,6 +95,12 @@ body{
 
 .col--15 {
   --ifm-col-width: 20%;
+  border: 1px solid black;
+  text-align: center;
+  height: 85px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
 }
 
 .col--offset-15 {
