@@ -102,10 +102,8 @@ body{
 }
 
 @media screen and (max-width: 996px) {
-  pre {
-      visibility: collapse;
-  }
   .theme-code-block {
     visibility: collapse;
+    display: none;
   }
 }
