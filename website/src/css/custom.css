@@ -100,3 +100,9 @@ body{
 .col--offset-15 {
   margin-left: 20%;
 }
+
+@media screen and (max-width: 996px) {
+  pre {
+      visibility: collapse;
+  }
+}
