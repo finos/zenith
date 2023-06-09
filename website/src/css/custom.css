@@ -107,3 +107,9 @@ body{
     display: none;
   }
 }
+
+.clean-btn
+{
+  visibility: collapse;
+  display: none;
+}
