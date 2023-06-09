@@ -49,16 +49,16 @@ Cloud<br/>Computing
 Advanced<br/>Data Processing
 </div>
 <div class="text--center col col--15 padding">
-x
+Next-generation<br/>Materials
 </div>
 <div class="text--center col col--15 padding">
-x
+3D/4D<br/>Printing
 </div>
 <div class="text--center col col--15 padding">
-x
+Biotechnology
 </div>
 <div class="text--center col col--15 padding">
-x
+Neural<br/>Interfacing
 </div>
 </div>
 </div>
