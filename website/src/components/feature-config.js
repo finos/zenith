@@ -3,7 +3,7 @@ import React from 'react';
 export const features = [
     {
         title: <>Primers</>,
-        imageUrl: '/img/finos/finos-blue.png',
+        imageUrl: '/img/home/primers.png',
         description: (
             <>Search our repositories of primers, covering subject introductions, technology readiness, industry landscape analysis and current status of various emerging technologies.</>
         ),
@@ -22,7 +22,7 @@ export const features = [
     },
     {
         title: <>Brain Trust</>,
-        imageUrl: '/img/finos/finos-blue.png',
+        imageUrl: '/img/home/braintrust.png',
         description: (
             <>Find out more about our subject matter experts that comprise the Zenith program or volunteer to share your expertise with the world.</>
         ),
@@ -41,7 +41,7 @@ export const features = [
     },
     {
         title: <>POC Program</>,
-        imageUrl: '/img/finos/finos-blue.png',
+        imageUrl: '/img/home/pocprogram.png',
         description: (
             <>Join our proof-of-concept development program to solve technology blockers in emerging technology spaces</>
         ),
@@ -60,7 +60,7 @@ export const features = [
     },
     {
         title: <>Libraries</>,
-        imageUrl: '/img/finos/finos-blue.png',
+        imageUrl: '/img/home/libraries.png',
         description: (
             <>Contribute to or leverage our libraries of repositories, standards and insights to help realise your vision of emerging technology.</>
         ),
