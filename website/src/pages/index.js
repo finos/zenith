@@ -26,7 +26,7 @@ function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted
               )}
-              to={'home.mdx'}>
+              to={'//home'}>
               GET STARTED
             </Link>
             <Link
