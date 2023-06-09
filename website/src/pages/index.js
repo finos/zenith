@@ -26,7 +26,7 @@ function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted
               )}
-              to={'https://finos.org/'}>
+              to={'/docs/home'}>
               GET STARTED
             </Link>
             <Link
@@ -34,8 +34,16 @@ function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted
               )}
-              to={'https://github.com/finos'}>
+              to={'https://github.com/finos/zenith'}>
               GITHUB
+            </Link>
+            <Link
+              className={classnames(
+                'button button--outline button--secondary button--lg',
+                styles.getStarted
+              )}
+              to={'mailto:zenith+subscribe@lists.finos.org?subject=Subscribe'}>
+              SUBSCRIBE
             </Link>
           </div>
         </div>
@@ -47,20 +55,6 @@ function Home() {
               <div className="row">
                 {features.map((props, idx) => (
                   <Feature key={idx} {...props} />
-                ))}
-              </div>
-            </div>
-          </section>
-        )}
-        {featuresTwo && featuresTwo.length && (
-          <section className={styles.members}>
-            <div className="container">
-              <div className="row row--center">
-                <h2></h2>
-              </div>
-              <div className="row">
-                {featuresTwo.map((props, idx) => (
-                  <FeaturesTwo key={idx} {...props} />
                 ))}
               </div>
             </div>

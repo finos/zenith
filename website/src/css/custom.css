@@ -92,3 +92,24 @@ body{
   margin-top: 25px;
   margin-bottom: 25px;
 }
+
+.col--15 {
+  --ifm-col-width: 20%;
+}
+
+.col--offset-15 {
+  margin-left: 20%;
+}
+
+@media screen and (max-width: 996px) {
+  .theme-code-block {
+    visibility: collapse;
+    display: none;
+  }
+}
+
+.clean-btn
+{
+  visibility: collapse;
+  display: none;
+}

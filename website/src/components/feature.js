@@ -11,13 +11,13 @@ export default function Feature({imageUrl, title, description, about, project, i
     };
 
     return (
-        <div className={classnames('text--center col col--4 padding', styles.feature)}>
+        <div className={classnames('text--center col col--3 padding', styles.feature)}>
             {imgUrl && (
                 <div>
                 <img className={styles.featureImage} src={imgUrl} alt={title} />
                 </div>
             )}
-            <h3>{title}</h3>
+            <h3><a href={about.link}>{title}</a></h3>
             <p>{description}</p>
             <div className={classnames(styles.featureCTA)}>
                 {defined(about) && defined(about.title) && defined(about.link) && about.link !== '' &&

@@ -197,3 +197,11 @@ article iframe {
   font-size: 16px;
   text-align: center;
 }
+
+.col--15 {
+  --ifm-col-width: 20%;
+}
+
+.col--offset-15 {
+  margin-left: 20%;
+}

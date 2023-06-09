@@ -27,11 +27,10 @@ module.exports = {
         src: 'img/zenith/Zenith_Logo_White.svg',
       },
       items: [
-        {to: 'docs/home', label: 'Docs', position: 'right'},
-        {to: 'docs/roadmap', label: 'Roadmap', position: 'right'},
+        {to: 'docs/home', label: 'Getting Started', position: 'right'},
         {to: 'docs/team', label: 'Team', position: 'right'},
         {
-          href: 'https://github.com/finos/',
+          href: 'https://github.com/finos/zenith',
           label: 'GitHub',
           position: 'right',
         }
@@ -51,10 +50,6 @@ module.exports = {
             {
               label: 'Getting Started',
               to: 'docs/home',
-            },
-            {
-              label: 'Roadmap',
-              to: 'docs/roadmap',
             },
             {
               label: 'Team',
@@ -111,7 +106,7 @@ module.exports = {
           path: '../docs',
           editUrl:
             'https://github.com/finos/open-developer-platform/edit/master/website/',
-          sidebarPath: require.resolve('./sidebars.js')
+          sidebarPath: require.resolve('./sidebars.json')
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
