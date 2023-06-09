@@ -11,53 +11,53 @@ Our initial primer subject list is outlined below, but, as the brain trust grows
 
 <div class="container">
 <div class="row">
-<div class="text--center col col--5 padding">
+<div class="text--center col col--2 padding">
 x
 </div>
-<div class="text--center col col--5 padding">
+<div class="text--center col col--2 padding">
 x
 </div>
-<div class="text--center col col--5 padding">
+<div class="text--center col col--2 padding">
 x
 </div>
-<div class="text--center col col--5 padding">
+<div class="text--center col col--2 padding">
 x
 </div>
-<div class="text--center col col--5 padding">
-x
-</div>
-</div>
-<div class="row">
-<div class="text--center col col--5 padding">
-x
-</div>
-<div class="text--center col col--5 padding">
-x
-</div>
-<div class="text--center col col--5 padding">
-x
-</div>
-<div class="text--center col col--5 padding">
-x
-</div>
-<div class="text--center col col--5 padding">
+<div class="text--center col col--2 padding">
 x
 </div>
 </div>
 <div class="row">
-<div class="text--center col col--5 padding">
+<div class="text--center col col--2 padding">
 x
 </div>
-<div class="text--center col col--5 padding">
+<div class="text--center col col--2 padding">
 x
 </div>
-<div class="text--center col col--5 padding">
+<div class="text--center col col--2 padding">
 x
 </div>
-<div class="text--center col col--5 padding">
+<div class="text--center col col--2 padding">
 x
 </div>
-<div class="text--center col col--5 padding">
+<div class="text--center col col--2 padding">
+x
+</div>
+</div>
+<div class="row">
+<div class="text--center col col--2 padding">
+x
+</div>
+<div class="text--center col col--2 padding">
+x
+</div>
+<div class="text--center col col--2 padding">
+x
+</div>
+<div class="text--center col col--2 padding">
+x
+</div>
+<div class="text--center col col--2 padding">
 x
 </div>
 </div>
