@@ -105,4 +105,7 @@ body{
   pre {
       visibility: collapse;
   }
+  .theme-code-block {
+    visibility: collapse;
+  }
 }
