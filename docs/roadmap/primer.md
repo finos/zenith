@@ -73,4 +73,4 @@ Neural<br/>Interfacing
 |5.| [ETAC](https://github.com/wso2/ETAC) production | _Week 4_ | <pre>                   ■■■■■               </pre> |
 |6.| Review | _Week 5_ | <pre>                         ■            </pre> |
 |7.| Initial publication | _Week 5_ | <pre>                         ■■■■■      </pre> |
-|8.| Continual Review &amp; Additions | _Ongoing_ | <pre>                               ——→   </pre> |
+|8.| Continual Review &amp; Additions | _Ongoing_ | <pre>                               →     </pre> |
