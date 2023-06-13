@@ -66,7 +66,7 @@ export const features = [
         ),
         about: {
             title: <>Zenith Repositories</>,
-            link: 'docs'
+            link: 'https://github.com/finos/zenith'
         },                
         project: {
             title: '',
