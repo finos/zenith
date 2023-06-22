@@ -33,7 +33,8 @@ module.exports = {
           href: 'https://github.com/finos/zenith',
           label: 'GitHub',
           position: 'right',
-        }
+        },
+        {to: 'blog', label: 'Blog', position: 'right'}
       ],
     },
     footer: {
@@ -105,7 +106,7 @@ module.exports = {
         docs: {
           path: '../docs',
           editUrl:
-            'https://github.com/finos/open-developer-platform/edit/master/website/',
+            'https://github.com/finos/zenith/edit/master/website/',
           sidebarPath: require.resolve('./sidebars.json')
         },
         theme: {
