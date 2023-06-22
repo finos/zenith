@@ -1,5 +1,5 @@
 ---
-title: Microsoft announces Azure Quantum
+title: Microsoft announces new milestone in Azure Quantum
 slug: azure-quantum-announced
 tags: [quantum]
 image: /img/blog/_f8ed32f3-6aa7-438a-855e-ce7b09a78740.jpeg
