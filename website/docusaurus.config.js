@@ -33,7 +33,8 @@ module.exports = {
           href: 'https://github.com/finos/zenith',
           label: 'GitHub',
           position: 'right',
-        }
+        },
+        {to: 'blog', label: 'Blog', position: 'right'}
       ],
     },
     footer: {
