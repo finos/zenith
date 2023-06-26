@@ -24,9 +24,9 @@ Zenith meetings have the following general format:
   - Proposals for new Primer topics
   - Prioritisation changes for existing publication schedule
 - Call to arms
-  - [POC Program](docs/roadmap/roadmap-poc)
-  - [Primers](docs/roadmap/roadmap-primer)
-  - [Brain Trust membership](docs/roadmap/roadmap-braintrust)
+  - [POC Program](/docs/roadmap/roadmap-poc)
+  - [Primers](/docs/roadmap/roadmap-primer)
+  - [Brain Trust membership](/docs/roadmap/roadmap-braintrust)
 - AOB
 - Thanks & Close Out
 
