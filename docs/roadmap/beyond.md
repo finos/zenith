@@ -6,7 +6,7 @@ sidebar_position: 3
 
 # Beyond Zenith
 
-As we develop the primers and our repositories, we look beyond exploration into commercialisation & adoption. To facilitate this, we have ensured that the Zenith program is designed from the ground-up to support future endeavors.
+As we develop the [primers](docs/roadmap/roadmap-primer) and our repositories, we look beyond exploration into commercialisation & adoption. To facilitate this, we have ensured that the Zenith program is designed from the ground-up to support future endeavors.
 
 ## Apache License & Intellectual Property
 
