@@ -9,4 +9,6 @@ image: /img/blog/quantum-nature.png
 
 The impact of this development on financial institutions is potentially significant. With the availability of utility-scale quantum processors, financial organizations can explore the application of quantum computing to optimization problems. Collaborative working groups are being formed to identify and advance the use of quantum calculations in areas such as sustainability and finance, with the aim of leveraging quantum advantage to solve optimization problems. This indicates a growing recognition of the potential value quantum computing holds for the financial industry, as technology continues to advance and offer computational power beyond what classical systems can achieve.
 
-![Nature Article Cover](/img/blog/quantum-nature.png)
+<p align="center">
+    <img src="/img/blog/quantum-nature.png" alt="quantum-nature" width="50%", height="50%"/>
+</p>
