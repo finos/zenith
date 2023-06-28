@@ -3,7 +3,11 @@ id: meetings
 title: Zenith meetings schedule
 ---
 
+# Join us for our Zenith meetings!
+
 Zenith meetings are happening on the 4th Thursday of every month, at 10 am EST / 3 pm BST, via [Zoom](https://zoom.us/j/98538837792?pwd=ZHg3QVVnaCtOT0tEZSs5c0hrZTg1dz09) (Meeting ID: 985 3883 7792, Passcode: 152455). You can download the invite for our [kickoff](/downloads/Zenith_SIG_Initial_Kick-Off.ics) and for the [regular meetings](/downloads/Zenith_Emerging_Technologies_SIG.ics).
+
+## Typical Zenith meeting agenda
 
 Zenith meetings have the following general format:
 
