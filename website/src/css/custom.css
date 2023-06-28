@@ -116,6 +116,10 @@ body{
     display: inline !important;
   }
 
+  navbar__brand {
+    display: none !important;
+  }
+
 }
 
 .clean-btn
