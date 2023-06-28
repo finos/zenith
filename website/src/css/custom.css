@@ -112,6 +112,18 @@ body{
     visibility: collapse;
     display: none;
   }
+  .navbar__items {
+    display: inline !important;
+  }
+  
+  .navbar__item {
+    display: inline !important;
+  }
+
+  .navbar__brand {
+    display: none !important;
+  }
+
 }
 
 .clean-btn
