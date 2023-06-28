@@ -115,8 +115,12 @@ body{
   .navbar__items {
     display: inline !important;
   }
+  
+  .navbar__item {
+    display: inline !important;
+  }
 
-  navbar__brand {
+  .navbar__brand {
     display: none !important;
   }
 
