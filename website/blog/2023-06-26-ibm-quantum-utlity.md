@@ -5,7 +5,7 @@ tags: [quantum-computing]
 image: /img/blog/quantum-nature.png
 ---
 
-IBM [announced](https://research.ibm.com/blog/utility-toward-useful-quantum!) a significant breakthrough in quantum computing, demonstrating that quantum computers can produce accurate results on a scale of 100+ qubits, surpassing classical approaches. The team used the 127-qubit superconducting 'Eagle' device to generate large, entangled states that simulate the dynamics of spins in a model of material and accurately predict properties such as its magnetization. The experiment showed that a quantum computer, using advanced error mitigation techniques, outperformed classical simulations.
+IBM [announced](https://research.ibm.com/blog/utility-toward-useful-quantum!) a significant breakthrough in quantum computing, demonstrating that quantum computers can produce accurate results on a scale of 100+ qubits, surpassing classical approaches. <!--truncate-->The team used the 127-qubit superconducting 'Eagle' device to generate large, entangled states that simulate the dynamics of spins in a model of material and accurately predict properties such as its magnetization. The experiment showed that a quantum computer, using advanced error mitigation techniques, outperformed classical simulations.
 
 This achievement marks a milestone in proving the utility of quantum computers as scientific tools capable of tackling complex problems that classical systems struggle with. In response to this breakthrough, IBM plans to upgrade its full fleet of IBM Quantum systems to large-scale quantum processors with a minimum of 127 qubits, enabling the exploration of an entirely new class of computational problems.
 
