@@ -17,6 +17,11 @@
   .heroBanner {
     padding: 2rem;
   }
+  
+  .buttons
+  {
+    display: grid;
+  }
 }
 
 .buttons {
