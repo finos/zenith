@@ -113,7 +113,7 @@ body{
     display: none;
   }
   .navbar__items {
-    display: inline;
+    display: inline !important;
   }
 
 }
