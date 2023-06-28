@@ -1,0 +1,113 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Eastern Standard Time
+BEGIN:STANDARD
+DTSTART:16011104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN=zenith@lists.finos.org;RSVP=TRUE:mailto:zenith@lists.finos.org
+CLASS:PUBLIC
+CREATED:20230622T152105Z
+DESCRIPTION:Zenith: Emerging Technologies SIG Working group\n\nMonthly from
+	 10am to 11am EST on the fourth Thursday (this is a one off due to this mo
+	nth having 5 weeks)\n\nMeeting link: https://zoom.us/j/98538837792?pwd=ZHg
+	3QVVnaCtOT0tEZSs5c0hrZTg1dz09\nMeeting number: 985 3883 7792\nMeeting pass
+	word: 152455\n\n---\n\nOne tap mobile\n+19292056099\,\,98538837792# US (Ne
+	w York)\n+12532050468\,\,98538837792# US\n\n---\n\nDial by your location\n
+	• +1 929 205 6099 US (New York)\n• +1 253 205 0468 US\n• +1 253 215 
+	8782 US (Tacoma)\n• +1 301 715 8592 US (Washington DC)\n• +1 305 224 1
+	968 US\n• +1 309 205 3325 US\n• +1 312 626 6799 US (Chicago)\n• +1 3
+	46 248 7799 US (Houston)\n• +1 360 209 5623 US\n• +1 386 347 5053 US\n
+	• +1 507 473 4847 US\n• +1 564 217 2000 US\n• +1 646 931 3860 US\n
+	• +1 669 444 9171 US\n• +1 669 900 6833 US (San Jose)\n• +1 689 278 
+	1000 US\n• +1 719 359 4580 US\n• 877 853 5247 US Toll-free\n• 888 78
+	8 0099 US Toll-free\n\nMeeting ID: 985 3883 7792\n\nFind your local number
+	: https://zoom.us/u/acla1hdP0X\n--\n\n\n
+DTEND;TZID="Eastern Standard Time":20230629T110000
+DTSTAMP:20230622T141630Z
+DTSTART;TZID="Eastern Standard Time":20230629T100000
+LAST-MODIFIED:20230622T152105Z
+LOCATION:https://zoom.us/j/98538837792?pwd=ZHg3QVVnaCtOT0tEZSs5c0hrZTg1dz09
+ORGANIZER;CN="Zenith Leadership":mailto:zenith-leadership@lists.finos.org
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Zenith SIG Initial Kick-Off
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000D0511FD1EFA4D901000000000000000
+	0100000007A0287661263674E8960329366BD335D
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.16130.20466">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="en-us"><FONT FACE="Cal
+	ibri">Zenith: Emerging Technologies SIG</FONT></SPAN><SPAN LANG="en-us"></
+	SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT FACE="Calibri"> Wo
+	rking group</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us"><FONT FACE=
+	"Calibri">Monthly</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us
+	"></SPAN><SPAN LANG="en-us"> <FONT FACE="Calibri">from 10am to 11am EST on
+	 the fourth Thursday</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en
+	-us"></SPAN><SPAN LANG="en-us"><FONT FACE="Calibri"> (this is a one off du
+	e to this month having 5 weeks)</FONT></SPAN><SPAN LANG="en-us"></SPAN><SP
+	AN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN></P>\n\n<P DIR=LTR><SPAN 
+	LANG="en-us"><FONT FACE="Calibri">Meeting link:</FONT></SPAN><SPAN LANG="e
+	n-us"> </SPAN><A HREF="https://zoom.us/j/98538837792?pwd=ZHg3QVVnaCtOT0tEZ
+	Ss5c0hrZTg1dz09"><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN
+	 LANG="en-us"><U><FONT COLOR="#0563C1" FACE="Calibri">https://zoom.us/j/98
+	538837792?pwd=ZHg3QVVnaCtOT0tEZSs5c0hrZTg1dz09</FONT></U></SPAN><SPAN LANG
+	="en-us"></SPAN></A><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><S
+	PAN LANG="en-us"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us"><FONT FACE="
+	Calibri">Meeting number:</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG
+	="en-us"></SPAN><SPAN LANG="en-us"><FONT FACE="Calibri"></FONT></SPAN><SPA
+	N LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"> <FONT 
+	FACE="Calibri">985 3883 7792</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN 
+	LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN></P>\n\n<P DIR=LTR><SPAN LAN
+	G="en-us"><FONT FACE="Calibri">Meeting password:</FONT></SPAN><SPAN LANG="
+	en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"> <FONT FACE="Ca
+	libri">152455</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></
+	SPAN><SPAN LANG="en-us"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us"><FONT
+	 FACE="Calibri">---<BR>\n<BR>\nOne tap mobile<BR>\n+19292056099\,\,9853883
+	7792# US (New York)<BR>\n+12532050468\,\,98538837792# US<BR>\n<BR>\n---<BR
+	>\n<BR>\nDial by your location<BR>\n• +1 929 205 6099 US (New York)<BR>\
+	n• +1 253 205 0468 US<BR>\n• +1 253 215 8782 US (Tacoma)<BR>\n• +1 3
+	01 715 8592 US (Washington DC)<BR>\n• +1 305 224 1968 US<BR>\n• +1 309
+	 205 3325 US<BR>\n• +1 312 626 6799 US (Chicago)<BR>\n• +1 346 248 779
+	9 US (Houston)<BR>\n• +1 360 209 5623 US<BR>\n• +1 386 347 5053 US<BR>
+	\n• +1 507 473 4847 US<BR>\n• +1 564 217 2000 US<BR>\n• +1 646 931 3
+	860 US<BR>\n• +1 669 444 9171 US<BR>\n• +1 669 900 6833 US (San Jose)<
+	BR>\n• +1 689 278 1000 US<BR>\n• +1 719 359 4580 US<BR>\n• 877 853 5
+	247 US Toll-free<BR>\n• 888 788 0099 US Toll-free<BR>\n<BR>\nMeeting ID:
+	 985 3883 7792<BR>\n<BR>\nFind your local number:</FONT></SPAN><SPAN LANG=
+	"en-us"> </SPAN><A HREF="https://zoom.us/u/acla1hdP0X"><SPAN LANG="en-us">
+	</SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U><FONT COLOR="#0563C
+	1" FACE="Calibri">https://zoom.us/u/acla1hdP0X</FONT></U></SPAN><SPAN LANG
+	="en-us"></SPAN></A><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><S
+	PAN LANG="en-us"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us"><FONT COLOR=
+	"#000000" SIZE=2 FACE="Segoe UI Emoji">--</FONT></SPAN><B><SPAN LANG="en-u
+	s"></SPAN></B><B><SPAN LANG="en-us"></SPAN></B><B><SPAN LANG="en-us"></SPA
+	N><SPAN LANG="en-us"></SPAN></B></P>\n<BR>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTSEQTIME:20230622T141630Z
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

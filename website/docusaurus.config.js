@@ -57,6 +57,10 @@ module.exports = {
               to: 'docs/team',
             },
             {
+              label: 'Meetings',
+              to: 'docs/meetings',
+            },
+            {
               label: 'About FINOS',
               to: 'docs/about-finos',
             }
