@@ -10,6 +10,13 @@
 @media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
 }
 
+@media screen and (max-width: 966px) {
+  .button
+  {
+    margin-bottom: 10px;
+  }
+}
+
 @media only screen and (min-width: 1024px) {
 }
 

@@ -14,8 +14,10 @@
 }
 
 @media screen and (max-width: 966px) {
-  .heroBanner {
-    padding: 2rem;
+
+  .buttons
+  {
+    display: grid;
   }
 }
 
