@@ -20,6 +20,8 @@ By bringing together the combined might of innovation offices, labs, researchers
 3. Upon successful evaluation, an invitation will be sent to join the brain trust for the relevant discipline
 4. Once you are a member of the brain trust, we will issue an accreditation to share with your network through GitHub & LinkedIn to prove your expertise
 
+<iframe width="480" height="270" src="https://www.youtube.com/embed/gCpkVmi1CdE" title="FINOS - Zenith SIG Overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Expected Timeline
 
 | Intake phase | Timeline |
