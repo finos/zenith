@@ -5,6 +5,6 @@ tags: [spatial-computing]
 image: /img/blog/zoom-horizon.png
 ---
 
-Meta Hoprizon Workrooms is a virtual office space that now integrates with Zoom, a widespread video conferencing tool. You can join Zoom meetings from Workrooms in VR, or add Workrooms to any Zoom call. This way, you can enjoy the features of both tools, such as screen sharing, whiteboard, sticky notes, gestures, and web chat. You can use Workrooms with or without a headset.
+Meta Horizon Workrooms is a virtual office space that now integrates with Zoom, a widespread video conferencing tool. You can join Zoom meetings from Workrooms in VR, or add Workrooms to any Zoom call. This way, you can enjoy the features of both tools, such as screen sharing, whiteboard, sticky notes, gestures, and web chat. You can use Workrooms with or without a headset.
 
 ![Meta Horizon Worlds users in a zoom call](/img/blog/zoom-horizon.png)
