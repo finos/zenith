@@ -29,25 +29,33 @@ YYYYMMDD - time
 - [ ] Display [FINOS Antitrust Policy summary slide](https://community.finos.org/Compliance-Slides/Antitrust-Compliance-Slide.pdf) 
 - [ ] Review Meeting Notices (see above)
 - [ ] Approve past meeting minutes
-- [ ] Agenda item 1
-- [ ] Agenda item 2
-- [ ] ...
-- [ ] AOB, Q&A & Adjourn (5mins)
-
-## Decisions Made
-- [ ] Decision 1
-- [ ] Decision 2
-- [ ] ...
-
-## Action Items
-- [ ] Action 1
-- [ ] Action 2
-- [ ] ...
+- [ ] Welcome & Announcements
+   - [ ] New Brain Trust Members
+   - [ ] Updates on current projects
+   - [ ] Updates on Blog
+   - [ ] Notices about upcoming events/deadlines
+- [ ] POC Program
+   - [ ] Overview of existing blockers for ransom
+   - [ ] Status updates on existing programs
+   - [ ] Showcase announcements (if applicable)
+- [ ] Deep Dive
+   - [ ] Presentation on latest Primer
+   - [ ] Interview with external SME or industry insight
+- [ ] Any other Admin
+   - [ ] Changes to program
+   - [ ] Proposals for new Primer topics
+   - [ ] Prioritisation changes for existing publication schedule
+- [ ] Call to arms
+   - [ ] POC Program
+   - [ ] Primers
+   - [ ] Brain Trust membership
+- [ ] AOB
+- [ ] Thanks & Close Out
 
 ### Zoom Details
-- https://zoom.us/j/tbd
-- **Meeting ID:** tbd
-- **Passcode:** tbd
+- https://zoom.us/j/98538837792?pwd=ZHg3QVVnaCtOT0tEZSs5c0hrZTg1dz09
+- **Meeting ID:** 985 3883 7792 
+- **Passcode:** 152455
 
 ### Join by Phone
 - Find your local number: https://zoom.us/u/adl5rhui4P
