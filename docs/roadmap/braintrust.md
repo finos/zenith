@@ -9,7 +9,9 @@ sidebar_position: 0
 By bringing together the combined might of innovation offices, labs, researchers & distinguished engineers across the FINOS membership and beyond, we seek to develop a forum of accredited and trusted subject matter experts to open discourse on current emerging technologies & their readiness levels.
 
 ## Process
-<div style={{ width: '50%', float: 'left', clear: 'left'}}>
+
+<iframe width="480" height="270" src="https://www.youtube.com/embed/gCpkVmi1CdE" title="FINOS - Zenith SIG Overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="float:left"></iframe>
+
 1. Organisation or self-nomination of candidate based on **Theoretical**, **Technical** or **Commercial** experience or expertise in their discipline
 2. Evaluation of subject matter expertise through evaluation of:
     1. Education & Training
@@ -19,10 +21,6 @@ By bringing together the combined might of innovation offices, labs, researchers
     5. Evidence of continued professional development
 3. Upon successful evaluation, an invitation will be sent to join the brain trust for the relevant discipline
 4. Once you are a member of the brain trust, we will issue an accreditation to share with your network through GitHub & LinkedIn to prove your expertise
-</div>
-<div  style={{ width: '50%', float: 'right', clear: 'right'}}>
-<iframe width="480" height="270" src="https://www.youtube.com/embed/gCpkVmi1CdE" title="FINOS - Zenith SIG Overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
 
 ## Expected Timeline
 
