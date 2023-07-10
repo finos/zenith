@@ -10,7 +10,7 @@ By bringing together the combined might of innovation offices, labs, researchers
 
 ## Process
 
-<iframe width="480" height="270" src="https://www.youtube.com/embed/gCpkVmi1CdE" title="FINOS - Zenith SIG Overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style={{float: 'right'}}></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/gCpkVmi1CdE" title="FINOS - Zenith SIG Overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen class="youtube"></iframe>
 
 1. Organisation or self-nomination of candidate based on **Theoretical**, **Technical** or **Commercial** experience or expertise in their discipline
 2. Evaluation of subject matter expertise through evaluation of:
