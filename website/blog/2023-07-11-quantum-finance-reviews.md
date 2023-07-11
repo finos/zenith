@@ -1,5 +1,5 @@
 ---
-title: Quantum Computing Finance - Systematic Review
+title: Quantum Computing in Finance - Two Systematic Reviews
 slug: quantum-finance-review
 tags: [quantum-computing]
 image: /img/blog/quantum-finance.jpg
