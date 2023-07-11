@@ -2,7 +2,7 @@
 title: Quantum Computing Finance - Systematic Review
 slug: quantum-finance-review
 tags: [quantum-computing]
-image: /img/blog/zoom-horizon.png
+image: /img/blog/quantum-finance.png
 ---
 
 Two recent papers were published summarizing the landscape of Quantum Computing developments in Finance.<!--truncate-->
