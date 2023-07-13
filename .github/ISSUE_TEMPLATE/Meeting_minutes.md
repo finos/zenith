@@ -3,8 +3,7 @@ name: "\U0001F91D Emerging Technologies Meeting Agenda"
 about: To track Emerging Technologies meeting agenda, minutes and attendance
 title: DD MMM YYYY - Emerging Technologies Meeting Agenda
 labels: meeting
-assignees: 
-
+assignees: smulovic,tenatzen,padraignix
 ---
 
 
@@ -45,7 +44,7 @@ YYYYMMDD - time
    - [ ] Changes to program
    - [ ] Proposals for new Primer topics
    - [ ] Prioritisation changes for existing publication schedule
-- [ ] Call to arms
+- [ ] Call to action
    - [ ] POC Program
    - [ ] Primers
    - [ ] Brain Trust membership
