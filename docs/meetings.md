@@ -35,3 +35,8 @@ Zenith meetings have the following general format:
 - Thanks & Close Out
 
 Looking forward to have you joining!
+
+## Previous meeting minutes
+
+- [2023/07/13](/docs/meetingnotes/meetingminutes-2023-07-13) - Our focus was generative AI
+- [2023/06/29](/docs/meetingnotes/meetingminutes-2023-06-29) - Our focus was initial introduction
