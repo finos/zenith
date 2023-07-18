@@ -108,11 +108,9 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         gtag: {
-          trackingID: 'G-H36K1GKY2H',
+          trackingID: 'G-999X9XX9XX',
           anonymizeIP: true,
         },
-      },
-      {
         docs: {
           path: '../docs',
           editUrl:
@@ -122,7 +120,7 @@ module.exports = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         }
-      }
-    ]
+      },
+    ],
   ]
 };
