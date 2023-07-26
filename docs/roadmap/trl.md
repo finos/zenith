@@ -4,8 +4,10 @@ title: Technology Readiness Levels
 sidebar_position: 2
 ---
 
-<div>
-<p style="text-align: center"><img src="https://github.com/finos/zenith/blob/main/primers/TRL%20Master.png?raw=true"></p>
+![TRL OVerview](<../../website/static/img/primers/trlmain.png>)
+
+<div style={{textAlign: 'center'}}>
+  <img src="../../website/static/img/primers/trlmain.png" />
 </div>
 
 The Technology Readiness Levels (TRL) are a system used to assess the maturity and readiness of technology development projects. In the context of open-source fintech, these levels can help gauge the progress and potential deployment of technological solutions. Here's a summary of the 9 levels of technology readiness:
