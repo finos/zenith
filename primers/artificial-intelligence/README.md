@@ -22,7 +22,7 @@
 - [Future Directions](#_toc140607953)
 
 ## [Tools for Artificial Intelligence Development](#_toc140607954)
-[Programming Languages](#_toc140607955)\
+[Programming Languages](#_toc140607955)
 - [Python](#_toc140607956)
 - [R](#_toc140607957)
 - [Julia](#_toc140607958)
