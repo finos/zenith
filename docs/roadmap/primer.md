@@ -8,7 +8,7 @@ sidebar_position: 1
 
 Taking the expertise of our brain trust, coupled with our own expertise in analysis, we create **Primers**. These primers help anyone, regardless of their experience in a subject, to understand the fundamentals of any particular discipline. Combining video and written content, the primers are an approachable way to brief yourself on a particular discipline and being your own journey of discover, invention and innovation.
 
-We are using the Technology Readiness Levels (TRL) rating to quantify the maturity of the emerging technologies covered. For a deeper understanding of this scale, <a href="https://github.com/finos/zenith/tree/main/primers/artificial-intelligence">click here</a>
+We are using the Technology Readiness Levels (TRL) rating to quantify the maturity of the emerging technologies covered. For a deeper understanding of this scale, <a href="https://zenith.finos.org/docs/roadmap/roadmap-trl">click here</a>
 
 Our initial primer subject list is outlined below, but, as the brain trust grows and research gets published, we will add, edit and reorder our priorities. Check back often to see the latest and greatest listing:
 
