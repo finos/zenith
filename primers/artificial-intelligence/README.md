@@ -29,17 +29,20 @@
 - [Java](#_toc140607959)
 - [C++](#_toc140607960)
 - [MATLAB](#_toc140607961)
+
 [Frameworks & Libraries](#_toc140607962)
 - [TensorFlow](#_toc140607963)
 - [PyTorch](#_toc140607964)
 - [scikit-learn](#_toc140607965)
 - [Keras](#_toc140607966)
 - [MXNet](#_toc140607967)
+
 [Integrated Development Environments (IDEs)](#_toc140607968)
 - [PyCharm](#_toc140607969)
 - [Jupyter Notebooks](#_toc140607970)
 - [Visual Studio Code](#_toc140607971)
 - [Spyder](#_toc140607972)
+
 [Cloud Platforms and Services](#_toc140607973)
 - [Amazon Web Services (AWS)](#_toc140607974)
 - [Google Cloud Platform (GCP)](#_toc140607975)
