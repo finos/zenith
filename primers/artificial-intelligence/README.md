@@ -1,18 +1,17 @@
 ﻿# Artificial Intelligence Primer: Introduction to the Subject
 
 ## [Introduction to Artificial Intelligence](#_toc140607934)
-[Definition and Overview](#_toc140607935)
-[Importance and Applications](#_toc140607936)
-[Ethical Considerations](#_toc140607937)
-[Fair Use](#_toc140607938)
-[Accessibility](#_toc140607939)
-[Security](#_toc140607940)
-[Emerging Current Trends](#_toc140607941)
+[Definition and Overview](#_toc140607935)\
+[Importance and Applications](#_toc140607936)\
+[Ethical Considerations](#_toc140607937)\
+[Accessibility](#_toc140607939)\
+[Security](#_toc140607940)\
+[Emerging Current Trends](#_toc140607941)\
 [What comes next?](#_toc140607942)
 
 ## [A Brief History of Artificial Intelligence](#_toc140607943)
-[Early Developments](#_toc140607944)
-[Key Milestones](#_toc140607945)
+[Early Developments](#_toc140607944)\
+[Key Milestones](#_toc140607945)\
 [Current State & Future Directions](#_toc140607946)
 - [Machine Learning](#_toc140607947)
 - [Natural Language Processing](#_toc140607948)
@@ -23,7 +22,7 @@
 - [Future Directions](#_toc140607953)
 
 ## [Tools for Artificial Intelligence Development](#_toc140607954)
-[Programming Languages	8](#_toc140607955)
+[Programming Languages](#_toc140607955)\
 - [Python](#_toc140607956)
 - [R](#_toc140607957)
 - [Julia](#_toc140607958)
@@ -36,7 +35,7 @@
 - [scikit-learn](#_toc140607965)
 - [Keras](#_toc140607966)
 - [MXNet](#_toc140607967)
-[Integrated Development Environments (IDEs)	10](#_toc140607968)
+[Integrated Development Environments (IDEs)](#_toc140607968)
 - [PyCharm](#_toc140607969)
 - [Jupyter Notebooks](#_toc140607970)
 - [Visual Studio Code](#_toc140607971)
