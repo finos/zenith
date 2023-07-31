@@ -146,7 +146,7 @@ Integrating AI-driven fraud detection into existing business processes and syste
 Despite these challenges, AI-driven fraud detection remains a compelling and transformative approach to combatting fraudulent activities. By addressing these hurdles through careful planning, robust data management, ongoing monitoring, and collaboration between experts in different domains, open-source innovators can effectively harness the potential of AI-driven fraud detection to safeguard critical systems and assets
 ## <a name="_toc140599703"></a> Technology Readiness
 ![TRL5](https://github.com/finos/zenith/blob/main/primers/trl-icons/TRL5.png)
-# <p align="center">TRL Level 5</p>
+### TRL Level 5
 While AI-driven fraud detection has been validated in relevant operational environments to some extent, it may not have been widely adopted and deployed across various industries and domains. To achieve TRL 5, the technology needs further validation and testing in a broader range of operational settings, demonstrating its practical applicability, scalability, and effectiveness in real-world scenarios.
 
 # Call to Action
