@@ -9,7 +9,8 @@ mailing list. Email zenith@lists.finos.org with questions or suggestions for
 collaboration use cases. Join the mailing list and stay up to date by sending a
 note to zenith+subscribe@lists.finos.org .
 
-<iframe width="480" height="270" src="https://www.youtube.com/embed/HhXkbroh8sM" title="FINOS - Zenith SIG Overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Watch [our intro video](
+https://youtu.be/HhXkbroh8sM) for a general overview.
 
 ## The FINOS Emerging Technologies Special Interest Group
 
@@ -48,10 +49,8 @@ When assessing a candidate for the **Brain Trust** [^1], we require them to demo
 | Skills & Awards | Has the candidate received any form of recognition from an entity relevant to the sector |
 | Professionalism & Ethics | Does the candidate demonstrate positive attitudes including inclusivity and giving back to the subject/relevant communities |
 | Continual Development | Does the candidate undertake efforts to keep up-to-date with the cutting edge of their discipline |
-	
-<iframe width="480" height="270" src="https://www.youtube.com/embed/gCpkVmi1CdE" title="FINOS - Zenith SIG Overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
----
+Watch [our video about Brain Trusts](https://youtu.be/gCpkVmi1CdE) for more details. 
 	
 ## 3. Support innovators to create Proofs-of-Concept (POCs)
 
