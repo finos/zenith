@@ -34,56 +34,69 @@ Fraud detection algorithms lie at the core of AI-driven fraud detection systems.
 ### Rule-Based Algorithms
 Rule-based algorithms are the simplest form of fraud detection. They operate based on predefined rules and thresholds set by human experts. Transactions or activities that match these rules are flagged as potential fraud cases. While rule-based algorithms are easy to implement, they lack the adaptability and sophistication of machine learning approaches.
   - **Example**: Threshold-based Rules
-    e.g., Transactions with amounts exceeding a certain threshold are flagged as potential fraud.
+    
+    For example transactions with amounts exceeding a certain threshold are flagged as potential fraud.
     - [Threshold-based rules in Azure Stream Analytics](https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-threshold-based-rules)
 ### Traditional Machine Learning Algorithms
 Traditional machine learning algorithms, such as Logistic Regression, Decision Trees, and Random Forests, can be applied to fraud detection tasks. These algorithms learn from historical data and build models to classify transactions as either legitimate or fraudulent based on various features and attributes. While they can provide good results, their performance may plateau when dealing with complex and evolving fraud patterns.
   - **Example**: Logistic Regression
+    
     Logistic Regression can be used to classify transactions as legitimate or fraudulent based on various features such as transaction amount, location, and time. 
     - [Logistic Regression using sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
   - **Example:** Decision Trees
+    
     Decision Trees can be employed to create a hierarchical model that splits data based on attributes, effectively segmenting transactions into groups likely to be legitimate or fraudulent.
     - [Decision Trees in sklearn](https://scikit-learn.org/stable/modules/tree.html)
   - **Example:** Random Forests
+    
     Random Forests combine multiple decision trees to improve accuracy and reduce overfitting, making them effective in detecting fraudulent activities with complex patterns.
     - [Random Forest Classifier in sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
     - [Random Forest Tutorial: Data Camp](https://www.datacamp.com/tutorial/random-forests-classifier-python)
 ### Supervised Learning Algorithms
 Supervised learning algorithms, including Support Vector Machines (SVM), Naive Bayes, and k-Nearest Neighbours (k-NN), require labelled data to train the model. They learn from historical data where the fraud labels are known, enabling them to make predictions on new, unlabelled data. Supervised learning algorithms are effective in detecting known fraud patterns but may struggle with detecting novel and emerging fraud schemes.
   - **Example:** Support Vector Machines (SVM)
+    
     SVM can classify transactions by finding the optimal hyperplane that separates legitimate and fraudulent instances in feature space.
     - [Support Vector Machines in sklearn](https://scikit-learn.org/stable/modules/svm.html)
   - **Example:** Naïve Bayes
-    Naive Bayes uses Bayes' theorem to calculate the probability of a transaction being fraudulent based on the probabilities of its individual features.
+    
+    Naïve Bayes uses Bayes' theorem to calculate the probability of a transaction being fraudulent based on the probabilities of its individual features.
     - [Naïve Bayes in sklearn](https://scikit-learn.org/stable/modules/naive_bayes.html)
   - **Example:** k-Nearest Neighbours (k-NN)
+    
     k-NN classifies transactions by comparing their features to the k-nearest labelled instances in the training data.
     - [K-NN in sklearn](https://scikit-learn.org/stable/modules/neighbors.html)
 ### Unsupervised Learning Algorithms
 Unsupervised learning algorithms, such as Clustering and Novelty/Outlier Detection, do not require labelled data for training. Instead, they identify patterns and anomalies in the data without predefined categories. These algorithms are valuable for detecting previously unknown fraud patterns and anomalies, making them suitable for identifying new types of fraud. However, they can also generate false positives if the data is highly imbalanced or noisy.
-  - **Example**: Clustering 
+  - **Example**: Clustering
+    
     Clustering algorithms group transactions into clusters based on similarity, allowing analysts to identify clusters with potentially fraudulent activities.
     - [Clustering using sklearn](https://scikit-learn.org/stable/modules/clustering.html)
   - **Example**: Novelty & Outlier Detection
+    
     Anomaly detection algorithms identify rare instances that significantly differ from the majority of transactions, helping detect unusual and potentially fraudulent behaviour.
     - [Novelty & Outlier Detection using sklearn](https://scikit-learn.org/stable/modules/outlier_detection.html)
 ### Deep Learning Algorithms
 Deep Learning, a subset of machine learning, utilizes artificial neural networks to model complex patterns and relationships in data. Deep Learning algorithms, such as Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs), have shown promising results in various domains, including fraud detection. They can automatically learn hierarchical representations of data, making them well-suited for fraud detection tasks with large and complex datasets.
   - **Example**: Convolutional Neural Networks (CNNs)
+    
     CNNs can process large volumes of transaction data, such as images of checks or credit cards, to recognize patterns indicative of fraud.
     - [TensorFlow CNN tutorial](https://www.tensorflow.org/tutorials/images/cnn)
     - [Example Credit Card Fraud Detection using CNN in TensorFlow](https://github.com/finint/antifraud)
   - **Example**: Recurrent Neural Networks (RNNs)
+    
     RNNs can analyse sequential transaction data, like user behaviour over time, to identify abnormal patterns and detect potential fraud.
     - [RNN Deep Learning Tutorial](https://www.simplilearn.com/tutorials/deep-learning-tutorial/rnn)
     - [Example Credit Card Fraud Detection using RNN](https://github.com/bibtissam/LSTM-Attention-FraudDetection)
 ### Ensemble Methods
 Ensemble methods combine multiple algorithms to improve fraud detection accuracy and robustness. Techniques like Bagging, Boosting, and Stacking merge the outputs of individual models to create a more accurate and reliable prediction. Ensemble methods are often employed to enhance the performance of fraud detection systems, especially when dealing with imbalanced datasets.
   - **Example**: Gradient Boosting
+    
     Gradient Boosting combines multiple weak learners (decision trees) to create a strong learner, resulting in improved fraud detection accuracy.
     - [Efficient Fraud Detection using Deep Boosting Decision Trees](https://arxiv.org/abs/2302.05918)
     - [Associated Codebase](https://github.com/freshmanXB/DBDT)
   - **Example**: Random Forest Ensemble
+    
     As mentioned earlier, Random Forests combine decision trees to achieve higher accuracy and handle imbalanced data effectively.
     - [Fraud Detection using Random Forest, Neural Autoencoder and Isolation Forest Techniques](https://www.infoq.com/articles/fraud-detection-random-forest/)
 
