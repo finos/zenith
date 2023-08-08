@@ -55,14 +55,17 @@ By leveraging parallel processing, optimized hardware architectures, specialized
 AI chipsets, such as GPUs, TPUs, and specialized AI chips, have reached an advanced stage of technology readiness (TRL 8), enabling high-performance AI computing. With their specialized architectures and parallel processing capabilities, these chipsets empower developers to efficiently handle complex AI computations, particularly in deep learning and neural networks. While their development involves significant expertise and cost, AI chipsets have emerged as a key technology in the AI field, propelling AI applications to new heights of performance and unlocking possibilities for advanced AI systems.
 
 
-## Call to Action
-#### As we strive to accelerate the widespread adoption of AI chipsets, we recognize the importance of addressing critical challenges that hinder their full potential. We invite innovators and researchers to join forces in overcoming these barriers and revolutionizing the AI landscape. Together, we can drive advancements in AI chipsets and unlock new frontiers in artificial intelligence. We present two key actions where your expertise and ingenuity can make a transformative impact:
-- #### *Standardize Development Practices for Minimized Complexity and Cost*
-#### Developing applications using AI chipsets should be seamless and cost-effective. However, variations in development practices and compatibility issues can present hurdles. By establishing industry-wide standards, we can reduce complexity, enhance integration, and lower development costs. Standardization will promote collaboration within the AI community, leading to more accessible and affordable AI solutions for diverse applications.
+# Call to Action
+As we strive to accelerate the widespread adoption of AI chipsets, we recognize the importance of addressing critical challenges that hinder their full potential. We invite innovators and researchers to join forces in overcoming these barriers and revolutionizing the AI landscape. Together, we can drive advancements in AI chipsets and unlock new frontiers in artificial intelligence. We present two key actions where your expertise and ingenuity can make a transformative impact:
+
+### *Standardize Development Practices for Minimized Complexity and Cost*
+Developing applications using AI chipsets should be seamless and cost-effective. However, variations in development practices and compatibility issues can present hurdles. By establishing industry-wide standards, we can reduce complexity, enhance integration, and lower development costs. Standardization will promote collaboration within the AI community, leading to more accessible and affordable AI solutions for diverse applications.
+
 Success in standardizing development practices will enable developers to harness the full power of AI chipsets with ease. A unified framework will foster innovation and accelerate AI adoption, allowing developers to focus on solving real-world challenges without being impeded by hardware complexities.
 
 We call upon the AI community to share best practices, propose standardized APIs and libraries, and develop guidelines for AI chipset integration. Your suggestions and concepts are instrumental in achieving a standardized approach, unlocking the full potential of AI hardware, and making AI more accessible to developers worldwide.
-- #### *Develop Optimizations for Specific Algorithms*
+
+### *Develop Optimizations for Specific Algorithms*
 To maximize AI chipsets' impact, tailored optimizations for specific algorithms are essential. Deep learning tasks, including computer vision, natural language processing, reinforcement learning, and generative modelling, require algorithm-specific architectures. By optimizing AI chipsets for these domains, we can achieve breakthrough performance and revolutionize AI applications in various fields. The algorithms we would specifically aim to look at are as follows:
 
 - **Convolutional Neural Networks (CNNs):** Enhance AI chipsets to excel in image and video processing tasks, allowing for faster and more efficient training and inference of CNN models. This will have profound implications for computer vision applications, autonomous vehicles, and healthcare diagnostics.
