@@ -1,6 +1,6 @@
 ---
 name: Idea template
-about: This template serves as a guide for officially submitting your idea to the FINOZ Zenith POC program. The following are suggested questions to answer, but feel free to add more details that will help build your proposal. 
+about: This template serves as a guide for officially submitting your idea to the FINOZ Zenith POC program.
 ---
 
 ### Idea Title: *This is where you write down the name of your idea.*
