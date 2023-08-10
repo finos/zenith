@@ -1,17 +1,13 @@
----
 name: "\U0001F4A1 Submit your idea proposal"
-about: "submit your idea proposal"
 title: "[Idea]: "
 labels: ["idea"]
 assignees:
   - leomordasini
----
-  
 body:
   - type: markdown
     attributes:
       value: |
-        This template serves as a guide for officially submitting your idea to the FINOZ Zenith POC program. The following are suggested questions to answer, but feel free to add more details that will help build your proposal.
+        This template serves as a guide for officially submitting your idea to the FINOS Zenith POC program. The following are suggested questions to answer, but feel free to add more details that will help build your proposal.
   - type: input
     id: contact
     attributes:
@@ -26,7 +22,7 @@ body:
       label: What is the idea
       description: Describe in an "elevator pitch" your idea at a high level
       placeholder: 
-      value: Talk about who this is for, who's your customer, etc.
+      value: Talk about who this is for, who is your customer, etc.
     validations:
       required: true
   - type: textarea
@@ -69,5 +65,5 @@ body:
       label: Code of Conduct
       description: By submitting this issue, you agree to follow our [FINOS Code of Conduct](https://www.finos.org/code-of-conduct)
       options:
-        - label: I agree to follow this project's Code of Conduct
+        - label: I agree to follow the FINOS Code of Conduct
           required: true
