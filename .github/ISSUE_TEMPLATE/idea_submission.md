@@ -1,70 +1,59 @@
-name: Submit your idea proposal
-description: Submit your idea proposal
-title: "[Idea]: "
-labels: ["idea"]
-assignees:
-  - test
-body:
-  - type: markdown
-    attributes:
-      value: |
-        This template serves as a guide for officially submitting your idea to the FINOZ Zenith POC program. The following are suggested questions to answer, but feel free to add more details that will help build your proposal.
-  - type: input
-    id: contact
-    attributes:
-      label: Contact Details
-      description: How can we get in touch with you?
-      placeholder: ex. email@example.com
-    validations:
-      required: true
-  - type: textarea
-    id: idea-what
-    attributes:
-      label: What is the idea
-      description: Describe in an "elevator pitch" your idea at a high level
-      placeholder: 
-      value: Talk about who this is for, who's your customer, etc.
-    validations:
-      required: true
-  - type: textarea
-    id: idea-why
-    attributes:
-      label: Why is it a good idea
-      description: Who would benefit from this idea?
-      placeholder: 
-      value: Which customer persona/segment/industry would use this feature?
-    validations:
-      required: true
-  - type: textarea
-    id: idea-why
-    attributes:
-      label: How does it work?
-      description: What is the value for the users of this POC
-      placeholder: 
-      value: Which customer persona/segment would use this feature?
-    validations:
-      required: true
-  - type: dropdown
-    id: primer
-    attributes:
-      label: primer
-      description: Which primer is this idea for?
-      options:
-        - artificial intelligence
-        - n/a (not associated with an existing primer)
-    validations:
-      required: true
-  - type: textarea
-    id: other
-    attributes:
-      label: Any other key information
-      description: Please add any other key information about your idea here
-      render: shell
-  - type: checkboxes
-    id: terms
-    attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [FINOS Code of Conduct](https://example.com)
-      options:
-        - label: I agree to follow this project's Code of Conduct
-          required: true
+---
+name: Idea template
+about: This template serves as a guide for officially submitting your idea to the FINOZ Zenith POC program. The following are suggested questions to answer, but feel free to add more details that will help build your proposal. 
+---
+
+### Idea Title: *This is where you write down the name of your idea.*
+
+#### What is the idea
+
+*In this section, write down your idea's story. Describe in an "elevator pitch" your idea at a high level* 
+
+Some guidance for telling the story of your idea. 
+
+- Talk about who this is for, who's your customer
+- Tie it back to data found in the primers, or reference data outside of the primers that is relevant for your idea
+- Link back to conversations with the rest of the community in the GitHub discussions to add additional context 
+
+### Why is it a good idea
+
+**Who would benefit from this idea?**
+
+*Which customer persona/segment/industry would use this feature?*
+
+**Who at your organization might be interested in this idea?**
+
+*This question helps bring people into the conversation, inviting them to participate if they want to, but doesn't commit them to any work.*
+
+### How does it work
+
+**What is the value for the users of this POC**
+
+*Which customer persona/segment would use this feature?*
+
+
+### Success Criteria
+
+**What are the metrics you will measure the POC against when evaluating the success of the POC**
+
+*TBD*
+
+### What is needed for this POC to be a success?
+
+**What funding do you need?**
+
+*TBD*
+
+**What resources do you need?**
+
+*TBD*
+
+
+### Contact Information
+
+- Best way to reach me 
+
+
+### Any other key information
+
+*TBD*
