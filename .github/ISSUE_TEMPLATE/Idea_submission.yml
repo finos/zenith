@@ -1,4 +1,5 @@
 name: "\U0001F4A1 Submit your idea proposal"
+description: To submit an idea of the FINOS Zenith POC program
 title: "[Idea]: "
 labels: ["idea"]
 assignees:
