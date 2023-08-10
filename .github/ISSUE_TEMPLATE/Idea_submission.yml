@@ -36,7 +36,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: idea-why
+    id: idea-how
     attributes:
       label: How does it work?
       description: What is the value for the users of this POC
