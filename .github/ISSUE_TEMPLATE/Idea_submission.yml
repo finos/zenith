@@ -1,12 +1,10 @@
 ---
-name: "\U0001F4A1 Submit your idea proposal"
-about: "submit your idea proposal"
+name: "Submit your idea proposal"
+description: "submit your idea proposal"
 title: "[Idea]: "
 labels: ["idea"]
 assignees:
   - leomordasini
----
-  
 body:
   - type: markdown
     attributes:
