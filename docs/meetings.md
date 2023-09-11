@@ -38,5 +38,6 @@ Looking forward to have you joining!
 
 ## Previous meeting minutes
 
+- [2023/08/24](/docs/meetingnotes/meetingminutes-2023-08-24) - Our focus was AI powered analysis of architectural code
 - [2023/07/13](/docs/meetingnotes/meetingminutes-2023-07-13) - Our focus was generative AI
 - [2023/06/29](/docs/meetingnotes/meetingminutes-2023-06-29) - Our focus was initial introduction
