@@ -1,8 +1,7 @@
 ---
-title: Zenith Brain Trust Blog #001
-description: Reproducability in AI Models
+title: Zenith Brain Trust Blog #001: Reproducability in AI Models
 slug: brain-trust-ai-reproducability
-tags: [ai][brain trust][governance]
+tags: [brain trust]
 image: /img/blog/brain_trust_AI_1.png
 ---
 
