@@ -1,13 +1,7 @@
 ---
-title: Zenith Brain Trust Blog #001
-description: Reproducability in AI Models
+title: Zenith Brain Trust Blog #001: Reproducability in AI Models
 slug: brain-trust-ai-reproducability
-authors:
-  - name: Keith O'Donnell
-    title: Co-chair of Zenith
-    url: https://github.com/tenatzen
-    image_url: /img/people/keith-o-donnell.png
-tags: [ai][brain trust][governance]
+tags: [brain trust]
 image: /img/blog/brain_trust_AI_1.png
 ---
 
@@ -77,7 +71,7 @@ As AI technologies become more integrated into industries, there's a growing nee
 
 It's a dynamic field where the law is racing to catch up with technology. This is going to be the subject of a Brain Trust subcommittee to be planned for the near future (So stay tuned!).
 
-Security & Data Integrity in AI Models
+## Security & Data Integrity in AI Models
 
 The rapid advancement of artificial intelligence (AI) technologies brings with it a pressing concern: security and data integrity. The Brain Trust had a number of thoughts on the intricacies of ensuring the safety and reliability of AI models in a rapidly evolving landscape.
 
