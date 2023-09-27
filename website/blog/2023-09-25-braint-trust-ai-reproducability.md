@@ -3,10 +3,10 @@ title: Zenith Brain Trust Blog #001
 description: Reproducability in AI Models
 slug: brain-trust-ai-reproducability
 authors:
-	- 	name: Keith O'Donnell
-		title: Co-chair of Zenith
-		url: https://github.com/tenatzen
-		image_url: /img/people/keith-o-donnell.png
+  - name: Keith O'Donnell
+    title: Co-chair of Zenith
+    url: https://github.com/tenatzen
+    image_url: /img/people/keith-o-donnell.png
 tags: [ai][brain trust][governance]
 image: /img/blog/brain_trust_AI_1.png
 ---
@@ -29,7 +29,7 @@ Furthermore, the use of hardware accelerators like GPUs adds another layer of co
 
 Data is the cornerstone of AI model training, and it presents its own set of reproducibility challenges. Datasets can evolve over time, with new data points being added or existing ones modified. Ensuring that the data used for model training remains static or adequately versioned is essential for reproducibility.
 
-The discussion emphasized the importance of transparency in AI model development. Understanding the data sources, preprocessing steps, and hyperparameter choices is critical for others attempting to reproduce the results. The call for more comprehensive model documentation, akin to research papers, is growing louder within the AI community through mechanisms such as [data model cards](https://huggingface.co/blog/model-cards) and [model factsheets](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/factsheets-model-inventory.html?audience=wdp&context=cpdaas
+The discussion emphasized the importance of transparency in AI model development. Understanding the data sources, preprocessing steps, and hyperparameter choices is critical for others attempting to reproduce the results. The call for more comprehensive model documentation, akin to research papers, is growing louder within the AI community through mechanisms such as [data model cards](https://huggingface.co/blog/model-cards) and [model factsheets](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/factsheets-model-inventory.html?audience=wdp&context=cpdaas)
 
 ## Model Transparency Best Practices
 
@@ -107,4 +107,4 @@ Taxonomies and standards also play a crucial role in ensuring the ethical and se
 Developing comprehensive taxonomies and standards requires input from diverse stakeholders, including researchers, policymakers, and industry experts. This is going to become a key objective of the wider FINOS initiative as we explore many other emerging technologies in the future, so it’s going to be a good initial focus for future Brain Trust meetings.
 Looking ahead, the ongoing journey that demands active participation from the wider AI community and a commitment to ethical, secure, and interoperable AI systems will shape the future of AI. With the proper taxonomies and standards, we lay the foundation for innovation, trust, and responsible AI practices. It's a collective effort that promises to drive the industry forward while ensuring that AI benefits everyone.
 
-- [The Zenith Team](mailto:zenith-leadership@lists.finos.org)
+**[The Zenith Team](mailto:zenith-leadership@lists.finos.org)**
