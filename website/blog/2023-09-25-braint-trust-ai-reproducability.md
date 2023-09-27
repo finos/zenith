@@ -2,11 +2,6 @@
 title: Zenith Brain Trust Blog #001
 description: Reproducability in AI Models
 slug: brain-trust-ai-reproducability
-authors:
-  - name: Keith O'Donnell
-    title: Co-chair of Zenith
-    url: https://github.com/tenatzen
-    image_url: /img/people/keith-o-donnell.png
 tags: [ai][brain trust][governance]
 image: /img/blog/brain_trust_AI_1.png
 ---
