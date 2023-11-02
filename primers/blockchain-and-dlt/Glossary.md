@@ -1,3 +1,7 @@
+---
+title: "DLT: Glossary"
+---
+
 # Glossary by First Letter
 
 [A](#_ox8p6r4pnvik)
