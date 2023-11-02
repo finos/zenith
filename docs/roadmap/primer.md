@@ -21,7 +21,7 @@ Our initial primer subject list is outlined below, but, as the brain trust grows
 Natural Language<br/>Processing
 </div>
 <div class="text--center col col--15 ">
-Spatial Computing
+<a href="https://github.com/finos/zenith/tree/main/primers/spatial-computing">Spatial Computing</a>
 </div>
 <div class="text--center col col--15 ">
 Robotics &amp; Process<br/>Automation
@@ -32,7 +32,7 @@ Crypto-Agility
 </div>
 <div class="row">
 <div class="text--center col col--15 ">
-Blockchain<br/>&amp; DLT
+<a href="https://github.com/finos/zenith/tree/main/primers/blockchain-and-dlt">Blockchain<br/>&amp; DLT</a>
 </div>
 <div class="text--center col col--15 ">
 IOT, 5G<br/>&amp; 6G
