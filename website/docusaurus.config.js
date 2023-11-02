@@ -8,7 +8,7 @@ const copyrightOwner = 'FINOS'
 
 const fse = require('fs-extra');
 const srcDir = '../primers';
-const destDir = '../docs';
+const destDir = '../docs/primers';
 
 try {
   fse.copySync(srcDir, destDir, { overwrite: true });
