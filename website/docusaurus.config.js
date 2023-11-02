@@ -130,7 +130,7 @@ module.exports = {
         id: 'primers',
         path: '../primers',
         routeBasePath: 'primers',
-        sidebarPath: './sidebarsCommunity.js',
+        sidebarPath: './sidebarsprimers.js',
         // ... other options
       },
     ],
