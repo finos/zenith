@@ -159,7 +159,7 @@ An enterprise-ready DLT framework, [Hyperledger Fabric](https://www.hyperledger.
 
 #### [Corda](#_toc140607965)
 
-[Corda]((https://www.hyperledger.org/)) is a DLT platform designed for financial services, offering a framework for developing and deploying financial applications.
+[Corda](https://www.hyperledger.org/) is a DLT platform designed for financial services, offering a framework for developing and deploying financial applications.
 
 #### [Stellar](#_toc140607966)
 
