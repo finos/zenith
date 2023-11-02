@@ -129,7 +129,7 @@ module.exports = {
       {
         id: 'primers',
         path: '../primers',
-        //routeBasePath: 'primers',
+        routeBasePath: 'docs/primers',
         sidebarPath: require.resolve('./sidebarsprimers.json'),
         // ... other options
       },
