@@ -115,25 +115,27 @@ module.exports = {
           path: '../docs',
           editUrl:
             'https://github.com/finos/zenith/edit/main/website/',
-          sidebarPath: require.resolve('./sidebars.json')
+          sidebarPath: require.resolve('./sidebars.json'),
+          include: ['**/*.md', '**/*.mdx', '../primers/**/*.md']
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         }
       },
     ],
-  ],
-  plugins: [
-    [
-      '@docusaurus/plugin-content-docs',
-      {
-        //id: 'primers',
-        path: '../primers',
-        routeBasePath: '/',
-        sidebarPath: require.resolve('./sidebarsprimers.json'),
-        // ... other options
-      },
-    ],
-
   ]
+  // ],
+  // plugins: [
+  //   [
+  //     '@docusaurus/plugin-content-docs',
+  //     {
+  //       id: 'primers',
+  //       path: '../primers',
+  //       routeBasePath: '/',
+  //       sidebarPath: require.resolve('./sidebarsprimers.json'),
+  //       // ... other options
+  //     },
+  //   ],
+
+  // ]
 };
