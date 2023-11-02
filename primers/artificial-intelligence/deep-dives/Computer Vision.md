@@ -1,4 +1,4 @@
-﻿# <a name="_toc140599739"></a>Computer Vision
+﻿# Computer Vision
 Computer Vision in Fintech is an innovative and transformative application of computer vision technology within the financial technology industry. 
 
 Leveraging advanced algorithms, machine learning models, and image processing techniques, computer vision enables Fintech companies to extract valuable insights from visual data, streamline processes, and enhance customer experiences. By harnessing the power of computer vision, Fintech applications can automate document verification, detect fraudulent activities, provide personalized services, and revolutionize various financial services. 
