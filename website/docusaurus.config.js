@@ -12,7 +12,7 @@ const destDir = '../docs/primers';
 
 try {
   fse.copySync(srcDir, destDir, { overwrite: true });
-  console.log('success!');
+  console.log('Primers available');
 } catch (err) {
   console.error(err);
 }
@@ -135,18 +135,4 @@ module.exports = {
       },
     ],
   ]
-  // ],
-  // plugins: [
-  //   [
-  //     '@docusaurus/plugin-content-docs',
-  //     {
-  //       id: 'primers',
-  //       path: '../primers',
-  //       routeBasePath: '/',
-  //       sidebarPath: require.resolve('./sidebarsprimers.json'),
-  //       // ... other options
-  //     },
-  //   ],
-
-  // ]
 };
