@@ -1,4 +1,9 @@
-﻿# Artificial Intelligence Primer: Introduction to the Subject
+﻿---
+id: artificial-intelligence
+title: "Artificial Intelligence Primer: Introduction to the Subject"
+---
+
+# Artificial Intelligence Primer: Introduction to the Subject
 
 ## [Introduction to Artificial Intelligence](#_toc140607934)
 [Definition and Overview](#_toc140607935)\
