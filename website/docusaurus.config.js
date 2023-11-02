@@ -127,7 +127,7 @@ module.exports = {
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'primers',
+        //id: 'primers',
         path: '../primers',
         routeBasePath: '/',
         sidebarPath: require.resolve('./sidebarsprimers.json'),
