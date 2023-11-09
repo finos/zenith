@@ -1,8 +1,12 @@
-﻿# <a name="_toc140599699"></a>AI Chipsets
+﻿---
+id: ai-chipsets
+title: AI Chipsets
+---
+
 AI chipsets, also known as AI accelerators or AI processors, are specialized hardware components designed to accelerate AI workloads. Traditional central processing units (CPUs) and graphics processing units (GPUs) have limitations in terms of computational power and efficiency when it comes to AI tasks. AI chipsets are purpose-built to optimize the processing of AI algorithms, enabling faster and more efficient AI computations.
 
 AI chipsets leverage parallel processing and specialized architectures to handle the complex mathematical computations required for tasks such as deep learning, computer vision, and natural language processing. They can significantly enhance the performance of AI applications, allowing for real-time inference and training on large datasets.
-## <a name="_toc140599702"></a>Overview of AI-specific Hardware
+### Overview of AI-specific Hardware
 AI-specific hardware, also known as AI accelerators or AI processors, is a category of specialized hardware designed to optimize the performance of AI workloads. These hardware solutions are developed to address the unique computational requirements of artificial intelligence, providing faster and more efficient processing of AI algorithms compared to traditional central processing units (CPUs) and graphics processing units (GPUs).
 
 AI-specific hardware leverages various architectural optimizations and parallel processing techniques to accelerate AI computations. Here are some key points to understand about AI-specific hardware:
@@ -15,57 +19,58 @@ AI-specific hardware leverages various architectural optimizations and parallel 
 - **Customization and Programmability**: Some AI accelerators, such as field-programmable gate arrays (FPGAs), provide programmable hardware that allows developers to customize the circuitry and optimize it for their specific AI algorithms. This flexibility enables algorithmic customization and low-latency inference for real-time applications.
 
 AI-specific hardware comes in various forms, including GPUs, TPUs, FPGAs, and application-specific integrated circuits (ASICs). Each type of hardware has its own strengths, optimizations, and trade-offs, making them suitable for different AI workloads and applications.
-## GPUs, TPUs and Specialised AI Chips
+### GPUs, TPUs and Specialised AI Chips
 When it comes to accelerating AI computations, various types of hardware solutions have emerged to meet the demands of artificial intelligence workloads. GPUs, TPUs, and specialized AI chips play significant roles in enhancing the performance and efficiency of AI models. Let's explore these hardware options in more detail:
-### Graphics Processing Units (GPUs)
+#### Graphics Processing Units (GPUs)
 Graphics Processing Units (GPUs) have been at the forefront of AI acceleration, revolutionizing the field of deep learning. Originally developed for rendering graphics in video games, GPUs excel at parallel processing and handling large-scale mathematical computations. GPUs are built with thousands of cores, enabling simultaneous computation across massive amounts of data. This parallelism makes them highly suitable for training deep neural networks, which involve computationally intensive matrix operations. Frameworks like CUDA and libraries like cuDNN have been developed to harness the power of GPUs for accelerated AI computations.
-### Tensor Processing Units (TPUs)
+#### Tensor Processing Units (TPUs)
 Tensor Processing Units (TPUs) are specialized AI accelerators developed by Google specifically for deep learning tasks. TPUs are designed to optimize the performance of AI workloads that heavily rely on tensor operations. Tensor operations, such as matrix multiplications, are fundamental to neural network computations. TPUs feature a unique architecture tailored for efficient tensor processing, enabling high-speed and energy-efficient computations. Google Cloud Platform offers access to TPUs, allowing developers to leverage this dedicated hardware for training and inference in their AI models.
-### Specialized AI Chips
+#### Specialized AI Chips
 In addition to GPUs and TPUs, there is a growing ecosystem of specialized AI chips that are purpose-built to accelerate AI workloads. These chips are designed to provide efficient and high-performance AI computations. Some examples of specialized AI chips include:
-#### *Field-Programmable Gate Arrays (FPGAs)*
+##### *Field-Programmable Gate Arrays (FPGAs)*
 FPGAs offer programmable hardware that can be customized and tailored to accelerate specific AI algorithms. By designing custom circuits on FPGAs, developers can optimize performance and energy efficiency for their AI applications. FPGAs are particularly useful when algorithmic customization and low-latency inference are essential, such as in real-time AI applications.
 
 
-#### *Application-Specific Integrated Circuits (ASICs)*
+##### *Application-Specific Integrated Circuits (ASICs)*
 ASICs are custom-designed chips that are specifically engineered to handle AI workloads. These chips are optimized for efficient and specialized AI computations. ASICs leverage dedicated circuitry to maximize performance and power efficiency for specific AI tasks. Developing ASICs requires significant expertise and investment but can result in highly efficient and specialized AI acceleration.
 
 Each type of hardware has its own advantages and considerations. GPUs offer general-purpose parallel processing and are widely accessible. TPUs, on the other hand, provide dedicated acceleration for tensor computations commonly found in deep learning models. Specialized AI chips like FPGAs and ASICs offer customization and optimization for specific AI algorithms, enabling efficient and high-performance AI computations.
 
 Understanding the characteristics and capabilities of these hardware options empowers developers to choose the most suitable hardware for their AI projects, based on performance requirements, energy efficiency, and budget considerations.
-## Accelerating AI computations
+### Accelerating AI computations
 Accelerating AI computations is a crucial aspect of artificial intelligence development, enabling faster and more efficient processing of AI algorithms. Various techniques and hardware solutions are employed to enhance the performance of AI models. Here are some key points to understand about accelerating AI computations:
-### Parallel Processing
+#### Parallel Processing
 Parallel processing is a fundamental approach to accelerate AI computations. It involves dividing a task into smaller subtasks that can be executed simultaneously on multiple processing units. This technique leverages the power of parallel hardware architectures, such as GPUs, TPUs, and specialized AI chips, to significantly speed up computations. By processing multiple data points or calculations simultaneously, parallel processing enables faster training and inference in AI models.
-### Optimized Hardware Architectures
+#### Optimized Hardware Architectures
 Hardware solutions, including GPUs, TPUs, FPGAs, and ASICs, are designed with optimized architectures to efficiently handle AI workloads. These architectures are tailored to the specific computational requirements of AI algorithms, such as matrix multiplications, convolutions, and tensor operations. Optimized hardware architectures enable faster execution of AI computations, reducing the overall processing time.
-### Specialized Circuitry
+#### Specialized Circuitry
 Accelerating AI computations often involves dedicated circuitry or specific instructions designed to accelerate key operations. For example, GPUs have specialized cores optimized for matrix operations commonly found in deep learning models. TPUs are designed with dedicated tensor processing units to accelerate tensor computations. FPGAs and ASICs can be customized with specialized circuits tailored to specific AI algorithms, further optimizing performance.
-### Memory Access Optimization
+#### Memory Access Optimization
 Efficient memory access is crucial for accelerating AI computations. Techniques such as data batching, memory caching, and memory bandwidth optimization are employed to minimize data transfer overhead and maximize memory utilization. By optimizing memory access patterns, AI computations can be performed more efficiently, reducing latency and improving overall performance.
-### Hardware-Software Co-Design
+#### Hardware-Software Co-Design
 Accelerating AI computations requires a close collaboration between hardware and software. Hardware designers work in tandem with software developers to create hardware architectures that efficiently support AI workloads. Software frameworks, libraries, and programming models are designed to take advantage of the hardware's capabilities, ensuring seamless integration and optimized performance.
-### Hybrid Approaches
+#### Hybrid Approaches
 Hybrid approaches that combine different hardware technologies are also employed to accelerate AI computations. For example, systems can integrate CPUs, GPUs, and FPGAs within a unified architecture to leverage the strengths of each component. This combination provides flexibility and efficiency in handling diverse AI workloads, allowing developers to achieve optimal performance for their specific applications.
 
 By leveraging parallel processing, optimized hardware architectures, specialized circuitry, memory access optimization, and hybrid approaches, developers can significantly accelerate AI computations. This enables faster model training, real-time inference, and the ability to handle large-scale AI workloads more efficiently.
-## <a name="_toc140599703"></a>Technology Readiness
-![TRL8](https://github.com/finos/zenith/blob/main/primers/trl-icons/TRL8.png)
-### TRL Level 8
+### Technology Readiness
+![TRL8](/img/trl-icons/TRL8.png)
+
+#### TRL Level 8
 AI chipsets, such as GPUs, TPUs, and specialized AI chips, have reached an advanced stage of technology readiness (TRL 8), enabling high-performance AI computing. With their specialized architectures and parallel processing capabilities, these chipsets empower developers to efficiently handle complex AI computations, particularly in deep learning and neural networks. While their development involves significant expertise and cost, AI chipsets have emerged as a key technology in the AI field, propelling AI applications to new heights of performance and unlocking possibilities for advanced AI systems.
 
 
-# Call to Action
+## Call to Action
 As we strive to accelerate the widespread adoption of AI chipsets, we recognize the importance of addressing critical challenges that hinder their full potential. We invite innovators and researchers to join forces in overcoming these barriers and revolutionizing the AI landscape. Together, we can drive advancements in AI chipsets and unlock new frontiers in artificial intelligence. We present two key actions where your expertise and ingenuity can make a transformative impact:
 
-### *Standardize Development Practices for Minimized Complexity and Cost*
+#### *Standardize Development Practices for Minimized Complexity and Cost*
 Developing applications using AI chipsets should be seamless and cost-effective. However, variations in development practices and compatibility issues can present hurdles. By establishing industry-wide standards, we can reduce complexity, enhance integration, and lower development costs. Standardization will promote collaboration within the AI community, leading to more accessible and affordable AI solutions for diverse applications.
 
 Success in standardizing development practices will enable developers to harness the full power of AI chipsets with ease. A unified framework will foster innovation and accelerate AI adoption, allowing developers to focus on solving real-world challenges without being impeded by hardware complexities.
 
 We call upon the AI community to share best practices, propose standardized APIs and libraries, and develop guidelines for AI chipset integration. Your suggestions and concepts are instrumental in achieving a standardized approach, unlocking the full potential of AI hardware, and making AI more accessible to developers worldwide.
 
-### *Develop Optimizations for Specific Algorithms*
+#### *Develop Optimizations for Specific Algorithms*
 To maximize AI chipsets' impact, tailored optimizations for specific algorithms are essential. Deep learning tasks, including computer vision, natural language processing, reinforcement learning, and generative modelling, require algorithm-specific architectures. By optimizing AI chipsets for these domains, we can achieve breakthrough performance and revolutionize AI applications in various fields. The algorithms we would specifically aim to look at are as follows:
 
 - **Convolutional Neural Networks (CNNs):** Enhance AI chipsets to excel in image and video processing tasks, allowing for faster and more efficient training and inference of CNN models. This will have profound implications for computer vision applications, autonomous vehicles, and healthcare diagnostics.

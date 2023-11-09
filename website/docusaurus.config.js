@@ -6,6 +6,18 @@ const projectSlug = 'zenith'
 // Replace 'FINOS' with {name of copyright owner}
 const copyrightOwner = 'FINOS'
 
+const fse = require('fs-extra');
+const srcDir = '../primers';
+const destDir = '../docs/primers';
+
+try {
+  fse.copySync(srcDir, destDir, { overwrite: true });
+  fse.copySync('../primers/trl-icons', '../website/static/img/trl-icons', { overwrite: true });
+  console.log('Primers available');
+} catch (err) {
+  console.error(err);
+}
+
 module.exports = {
   title: `${projectName}`,
   tagline: `FINOS Emerging Technologies`, 
@@ -114,8 +126,9 @@ module.exports = {
         docs: {
           path: '../docs',
           editUrl:
-            'https://github.com/finos/zenith/edit/master/website/',
-          sidebarPath: require.resolve('./sidebars.json')
+            'https://github.com/finos/zenith/edit/main/website/',
+          sidebarPath: require.resolve('./sidebars.json'),
+          //include: ['**/*.md', '**/*.mdx', '../primers/**/*.md']
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
