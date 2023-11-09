@@ -2,34 +2,6 @@
 title: "DLT: Glossary"
 ---
 
-## Glossary by First Letter
-
-[A](#_ox8p6r4pnvik)
-[B](#_r0ejoqekk87m)
-[C](#_cn75x6aorokl)
-[D](#_4d9ry2oz44ib)
-[E](#_fgd8bdwuuqx) 
-[F](#_6ffdaxvasdn7) 
-[G](#_6fmkfzctry4p) 
-[H](#_a2zlorvvmwp1) 
-[I](#_ue2n5v6gpmqs) 
-[K](#_3gmnsj2hvxa0) 
-[L](#_r3bm0bpo851r) 
-[M](#_tyn7qeaz3xxq) 
-[N](#_e363d3t5cbj4) 
-[O](#_2n3u48dfqy4t) 
-[P](#_6je4ddqak4j0) 
-[R](#_9mp9jvjys9yw) 
-[S](#_vqfztr477r0v) 
-[T](#_6jvclblon4xl) 
-[U](#_5ros4e9wozna) 
-[V](#_1cb9ochh6m9v) 
-[W](#_83nn4j84upnc) 
-[Y](#_cetb7054wv) 
-[#](#_uulhvg743xvq) 
-
-***
-
 ### A
 
 - **Airdrop** (noun, verb): a marketing technique in which crypto projects send their native tokens directly to the wallets of their users in an effort to increase awareness and adoption.

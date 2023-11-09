@@ -1,8 +1,8 @@
 ---
-title: "Decentralised Ledger Technology Primer (DLT): Introduction to the Subject"
+title: "Decentralised Ledger Technology Primer (DLT)"
 ---
 
-## Decentralised Ledger Technology Primer (DLT): Introduction to the Subject
+## Introduction to the Subject
 
 ### Introduction to DLT
 
