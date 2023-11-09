@@ -1,6 +1,6 @@
-﻿# AI Primer: Glossary
+﻿## AI Primer: Glossary
 
-## General AI
+### General AI
 **Algorithm:** A set of instructions that a computer follows to solve a problem or perform a task.
 
 **AlphaGo:** A computer program that defeated a human Go champion in 2016. AlphaGo is a powerful example of the progress that has been made in AI in recent years.
@@ -99,7 +99,7 @@
 
 **Zero-shot Learning:** A type of machine learning where a model is trained to recognize and classify objects or concepts that it has never seen before.
 
-## AI Chipsets
+### AI Chipsets
 **AI chipset:** A silicon-based chipset that is enabled with AI technology, that offers high computing capabilities to connected devices such as laptops, smart wearable, smartphones, among others.
 
 **Application-specific integrated circuit (ASIC):** A type of chip that is designed for a specific application. ASICs are often used for AI applications because they can be optimized for the specific task at hand.
@@ -114,7 +114,7 @@
 
 **Tensor processing unit (TPU):** A type of chip that is designed for machine learning. TPUs are very efficient at performing matrix multiplication, which is a key operation in many machine learning algorithms. TPUs are developed by Google and are used in their AI products such as Google Cloud Platform and Google Search.
 
-## Data Annotation
+### Data Annotation
 **Data annotation:** The process of labeling or tagging data with relevant metadata to make it easier for machines to understand and interpret.
 
 **Label:** A piece of metadata that is attached to a piece of data to indicate its meaning. For example, a label might be "cat" or "dog" for an image of an animal.
@@ -133,7 +133,7 @@
 
 **Unsupervised learning:** A type of machine learning where the model is trained on unlabeled data. The model learns to identify patterns in the data without being told what the desired output should be. Unsupervised learning is less common than supervised learning for data annotation, but it can be used for tasks such as clustering and anomaly detection.
 
-## Synthetic Data
+### Synthetic Data
 **Synthetic data:** Data that is artificially generated rather than collected from the real world. Synthetic data can be used to train machine learning models, test software, and explore new ideas.
 
 **Data generation:** The process of creating synthetic data. Data generation can be done using a variety of techniques, such as sampling, simulation, and machine learning.
@@ -148,7 +148,7 @@
 
 **Machine learning:** A type of artificial intelligence that allows machines to learn without being explicitly programmed. Machine learning models can be used to generate synthetic data that is similar to real-world data.
 
-## Data De-Identification
+### Data De-Identification
 **Data de-identification:** The process of removing or altering personal information from data so that it can no longer be used to identify individuals.
 
 **Personally identifiable information (PII):** Information that can be used to identify an individual, such as their name, address, phone number, or social security number.
@@ -169,7 +169,7 @@
 - **HIPAA:** The Health Insurance Portability and Accountability Act (HIPAA) sets standards for the de-identification of health data.
 - **NIST:** The National Institute of Standards and Technology (NIST) has published guidelines for the de-identification of data.
 
-## Data Quality & Observability
+### Data Quality & Observability
 **Data quality:** The degree to which data meets the requirements of its intended use. Data quality is often expressed in terms of accuracy, completeness, consistency, timeliness, validity, and uniqueness.
 
 **Data observability:** The ability to understand and monitor the health and performance of data in a system. Data observability is often described as the ability to answer the following questions about data:**
@@ -191,7 +191,7 @@
 
 **Data lineage:** The tracking of the history of data as it moves through a system. Data lineage can be used to understand how data is being used and to troubleshoot problems.
 
-## Version Control & Experiment Tracking
+### Version Control & Experiment Tracking
 **Version control:** A system for tracking changes to files over time. Version control systems allow you to revert to previous versions of files, compare different versions of files, and track who made changes to files.
 
 **Experiment tracking:** The process of tracking the changes made to an experiment over time. Experiment tracking systems allow you to track the parameters of an experiment, the results of an experiment, and the changes made to an experiment.
@@ -204,7 +204,7 @@
 
 **MLflow:** A machine learning experiment tracking system. MLflow is a platform for managing the entire machine learning lifecycle, from experimentation to production. MLflow can be used to track the parameters of experiments, the results of experiments, and the changes made to experiments.
 
-## Model Validation & Monitoring
+### Model Validation & Monitoring
 **Model validation:** The process of evaluating a model to ensure that it is performing as expected. Model validation can be done using a variety of techniques, such as:**
 
 - **Holdout sets:** A holdout set is a set of data that is not used to train the model. The holdout set is used to evaluate the model's performance on unseen data.
@@ -221,7 +221,7 @@
 
 **Variance:** A measure of how much the model's predictions vary from the actual values.
 
-## Machine Learning Platforms
+### Machine Learning Platforms
 **Machine learning platform:** A software platform that provides the tools and infrastructure needed to build, deploy, and manage machine learning models.
 
 **Cloud-based machine learning platform:** A machine learning platform that is hosted in the cloud. Cloud-based machine learning platforms offer a number of advantages, such as scalability, flexibility, and cost-effectiveness.
@@ -232,7 +232,7 @@
 
 **Proprietary machine learning platform:** A machine learning platform that is proprietary. Proprietary machine learning platforms offer a number of advantages, such as support and integration with other products.
 
-## Machine Learning Deployment
+### Machine Learning Deployment
 **Machine learning deployment:** The process of making a machine learning model available to users so that it can be used to make predictions.
 
 **Model serving:** The process of making a machine learning model available to users so that it can be used to make predictions.
@@ -251,7 +251,7 @@
 
 **Continuous integration/continuous delivery (CI/CD):** A set of practices that are used to automate the deployment of machine learning models to production.
 
-## Resource Optimisation
+### Resource Optimisation
 **Resource optimization:** The process of maximizing the efficiency of resources such as computing power, memory, and storage.
 
 **Resource allocation:** The process of assigning resources to tasks or workloads.
@@ -272,7 +272,7 @@
 
 **Deduplication:** Deduplication removes duplicate data so that it does not take up unnecessary space.
 
-## Computer Vision
+### Computer Vision
 **Computer vision:** A field of artificial intelligence that gives computers the ability to see and understand the world around them.
 
 **Image recognition:** The ability to identify objects in images.
@@ -289,7 +289,7 @@
 
 **Visual search:** The ability to search for images or videos that match a given query.
 
-## Natural Language Processing
+### Natural Language Processing
 **Natural language processing (NLP):** A field of computer science that gives computers the ability to understand and process human language.
 
 **Corpus:** A collection of documents used in a natural language processing system, commonly for benchmarking and comparing natural language processing models.
