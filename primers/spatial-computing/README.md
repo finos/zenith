@@ -1,5 +1,5 @@
 ---
-title: "Spatial Computing: An Introduction to the Subject"
+title: "Spatial Computing"
 ---
 
 ## Introduction to Spatial Computing
