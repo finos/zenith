@@ -1,4 +1,5 @@
 ﻿---
+id: ai-vision
 title: Computer Vision
 ---
 
