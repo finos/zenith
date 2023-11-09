@@ -12,6 +12,7 @@ const destDir = '../docs/primers';
 
 try {
   fse.copySync(srcDir, destDir, { overwrite: true });
+  fse.copySync('../primers/tlr-icons', '../website/static/img/tlr-icons', { overwrite: true });
   console.log('Primers available');
 } catch (err) {
   console.error(err);

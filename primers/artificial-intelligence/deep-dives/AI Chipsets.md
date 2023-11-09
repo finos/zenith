@@ -54,7 +54,7 @@ Hybrid approaches that combine different hardware technologies are also employed
 
 By leveraging parallel processing, optimized hardware architectures, specialized circuitry, memory access optimization, and hybrid approaches, developers can significantly accelerate AI computations. This enables faster model training, real-time inference, and the ability to handle large-scale AI workloads more efficiently.
 ### Technology Readiness
-![TRL8](/primers/trl-icons/TRL8.png)
+![TRL8](/img/trl-icons/TRL8.png)
 
 #### TRL Level 8
 AI chipsets, such as GPUs, TPUs, and specialized AI chips, have reached an advanced stage of technology readiness (TRL 8), enabling high-performance AI computing. With their specialized architectures and parallel processing capabilities, these chipsets empower developers to efficiently handle complex AI computations, particularly in deep learning and neural networks. While their development involves significant expertise and cost, AI chipsets have emerged as a key technology in the AI field, propelling AI applications to new heights of performance and unlocking possibilities for advanced AI systems.
