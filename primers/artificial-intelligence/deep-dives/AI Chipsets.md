@@ -1,4 +1,8 @@
-﻿## AI Chipsets
+﻿---
+title: AI Chipsets
+---
+
+## AI Chipsets
 
 AI chipsets, also known as AI accelerators or AI processors, are specialized hardware components designed to accelerate AI workloads. Traditional central processing units (CPUs) and graphics processing units (GPUs) have limitations in terms of computational power and efficiency when it comes to AI tasks. AI chipsets are purpose-built to optimize the processing of AI algorithms, enabling faster and more efficient AI computations.
 

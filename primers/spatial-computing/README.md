@@ -1,4 +1,6 @@
-## Spatial Computing: An Introduction to the Subject
+---
+title: "Spatial Computing: An Introduction to the Subject"
+---
 
 ## Introduction to Spatial Computing
 
