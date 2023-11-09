@@ -1,6 +1,6 @@
 ﻿---
 id: artificial-intelligence
-title: "Artificial Intelligence Primer"
+title: "Artificial Intelligence"
 ---
 
 ### Introduction to Artificial Intelligence
