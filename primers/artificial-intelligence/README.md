@@ -3,58 +3,6 @@ id: artificial-intelligence
 title: "Artificial Intelligence Primer"
 ---
 
-## ntroduction to the Subject
-
-### Introduction to Artificial Intelligence
-Definition and Overview\
-Importance and Applications\
-Ethical Considerations\
-Accessibility\
-Security\
-Emerging Current Trends\
-What comes next?
-
-### A Brief History of Artificial Intelligence
-Early Developments\
-Key Milestones\
-Current State & Future Directions
-- Machine Learning
-- Natural Language Processing
-- Computer Vision
-- Robotics and Autonomous Systems
-- Explainable AI and Ethical Considerations
-- Emerging Trends
-- Future Directions
-
-### Tools for Artificial Intelligence Development
-Programming Languages
-- Python
-- R
-- Julia
-- Java
-- C++
-- MATLAB
-
-Frameworks & Libraries
-- TensorFlow
-- PyTorch
-- scikit-learn
-- Keras
-- MXNet
-
-Integrated Development Environments (IDEs)
-- PyCharm
-- Jupyter Notebooks
-- Visual Studio Code
-- Spyder
-
-Cloud Platforms and Services
-- Amazon Web Services (AWS)
-- Google Cloud Platform (GCP)
-- Microsoft Azure
-- IBM Watson
-- Oracle Cloud Infrastructure (OCI)
-
 ### Introduction to Artificial Intelligence
 Artificial Intelligence (AI) is a rapidly growing field that aims to develop intelligent machines capable of performing tasks that typically require human intelligence. It involves the study and development of algorithms, models, and systems that can perceive, reason, learn, and make decisions.
 

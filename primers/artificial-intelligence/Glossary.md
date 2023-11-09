@@ -2,8 +2,6 @@
 title: "AI: Glossary"
 ---
 
-## AI Primer: Glossary
-
 ### General AI
 **Algorithm:** A set of instructions that a computer follows to solve a problem or perform a task.
 
