@@ -78,8 +78,10 @@ The field of computer vision in Fintech has benefited greatly from the availabil
 [Tesseract OCR](https://tesseract-ocr.github.io/) is a widely-used open-source OCR engine that can be seamlessly integrated into Fintech platforms to extract text from images and scanned documents. Its versatility and language support make it a valuable tool for document processing and data extraction in Fintech.
 
 By utilizing these popular computer vision libraries and models, Fintech companies can leverage state-of-the-art technology, reduce development time, and deliver innovative and efficient financial services to customers. These resources form a solid foundation for building robust and cutting-edge computer vision applications in the dynamic and ever-expanding world of financial technology.
+
 ## Technology Readiness
-![TRL9](https://github.com/finos/zenith/blob/main/primers/trl-icons/TRL9.png)
+![TRL9](/img/trl-icons/TRL9.png)
+
 #### TRL Level 9
 With widespread real-world applications, including in industries like Fintech, computer vision has evolved from theoretical research to a transformative technology that enables machines to "see" and understand visual data. It excels in tasks such as facial recognition, object detection, and image classification, showcasing its effectiveness, reliability, and scalability. 
 
