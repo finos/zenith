@@ -3,6 +3,8 @@ id: artificial-intelligence
 title: "Artificial Intelligence"
 ---
 
+<a href="/static/files/executive-briefing.html">Executive Briefing</a>
+
 ### Introduction to Artificial Intelligence
 Artificial Intelligence (AI) is a rapidly growing field that aims to develop intelligent machines capable of performing tasks that typically require human intelligence. It involves the study and development of algorithms, models, and systems that can perceive, reason, learn, and make decisions.
 
