@@ -1,5 +1,5 @@
 ---
-title: Amazon Introduces New Quantum Chip at re:Invent 2023
+title: Amazon Introduces New Quantum Chip
 slug: aws-qec-reinvent-2023
 tags: [quantum-computing]
 image: /img/blog/aws-chip.png
