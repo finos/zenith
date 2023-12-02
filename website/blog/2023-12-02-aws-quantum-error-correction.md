@@ -11,4 +11,6 @@ Quantum Error Correction (QEC) is a daunting task of mitigating the sensitivity 
 
 The advancements in error rectification and the efficiency of hardware are paving the way for a future where quantum computers can tackle intricate challenges that were once thought to be beyond our reach.
 
+For those interested in exploring Quantum Computring on the AWS platform, there are [Braket learning paths](https://explore.skillbuilder.aws/learn/public/learning_plan/view/1986/amazon-braket-badge-knowledge-badge-readiness-path) on the AWS Skills Builder platform. You can gain hands-on experience with the AWS Quantum ecosystem while earning a digital badge demonstrating the knowledge learned.
+
 ![AWS Quantum Chip](/img/blog/aws-chip.png)
