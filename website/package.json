@@ -10,9 +10,9 @@
     "publish-gh-pages": "docusaurus deploy"
   },
   "dependencies": {
-    "@docusaurus/core": "^2.4.0",
-    "@docusaurus/plugin-google-gtag": "^2.4.1",
-    "@docusaurus/preset-classic": "^2.4.0",
+    "@docusaurus/core": "^3.0.1",
+    "@docusaurus/plugin-google-gtag": "^3.0.1",
+    "@docusaurus/preset-classic": "^3.0.1",
     "classnames": "^2.2.6",
     "clsx": "^1.1.1",
     "eslint": "^7.25.0",
