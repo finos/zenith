@@ -1,11 +1,13 @@
 # dependencies
 /node_modules
-
+website/node_modules
 # production
 /build
+website/build
 
 # generated files
 .docusaurus
+website/.docusaurus
 .cache-loader
 
 # misc
@@ -18,3 +20,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+website/npm-debug.log*
+website/yarn-debug.log*
+website/yarn-error.log*
