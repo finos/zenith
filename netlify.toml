@@ -1,2 +1,4 @@
 [build]
    ignore = "/bin/false"
+[build.environment]
+   NODE_VERSION = "18.0.0"
