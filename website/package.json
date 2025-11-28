@@ -10,9 +10,9 @@
     "publish-gh-pages": "docusaurus deploy"
   },
   "dependencies": {
-    "@docusaurus/core": "^3.1.0",
-    "@docusaurus/plugin-google-gtag": "^3.1.0",
-    "@docusaurus/preset-classic": "^3.1.0",
+    "@docusaurus/core": "^3.9.2",
+    "@docusaurus/plugin-google-gtag": "^3.9.2",
+    "@docusaurus/preset-classic": "^3.9.2",
     "classnames": "^2.5.1",
     "prism-react-renderer": "^2.3.0",
     "clsx": "^2.0.0",
