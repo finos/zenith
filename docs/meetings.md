@@ -5,7 +5,9 @@ title: Zenith meetings schedule
 
 # Join us for our Zenith meetings!
 
-Zenith meetings are happening on the 4th Thursday of every month, at 10 am EST / 3 pm BST, via [Zoom](https://zoom.us/j/98538837792?pwd=ZHg3QVVnaCtOT0tEZSs5c0hrZTg1dz09) (Meeting ID: 985 3883 7792, Passcode: 152455). You can download the invite for our [kickoff](/downloads/Zenith_SIG_Initial_Kick-Off.ics) and for the [regular meetings](/downloads/Zenith_Emerging_Technologies_SIG.ics).
+Zenith meetings are happening bi-weekly, at 10 am EST / 3 pm BST, via the LFX platform.
+
+Use [this link](https://zoom-lfx.platform.linuxfoundation.org/meeting/91492872876?password=af9079e0-fb86-418d-803b-1373ec1fb143) to Join Zoom meeting, and use [this link](https://zoom-lfx.platform.linuxfoundation.org/meeting/91492872876?password=af9079e0-fb86-418d-803b-1373ec1fb143&invite=true) to register for the meeting.
 
 ## Typical Zenith meeting agenda
 
@@ -35,9 +37,3 @@ Zenith meetings have the following general format:
 - Thanks & Close Out
 
 Looking forward to have you joining!
-
-## Previous meeting minutes
-
-- [2023/08/24](/docs/meetingnotes/meetingminutes-2023-08-24) - Our focus was AI powered analysis of architectural code
-- [2023/07/13](/docs/meetingnotes/meetingminutes-2023-07-13) - Our focus was generative AI
-- [2023/06/29](/docs/meetingnotes/meetingminutes-2023-06-29) - Our focus was initial introduction
