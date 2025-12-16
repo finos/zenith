@@ -6,9 +6,9 @@ labels: meeting
 assignees: smulovic,tenatzen,padraignix
 ---
 
-
- ## Date
-YYYYMMDD - time
+### Zoom Details
+- To Join: https://zoom-lfx.platform.linuxfoundation.org/meeting/91492872876?password=af9079e0-fb86-418d-803b-1373ec1fb143
+- To Register: https://zoom-lfx.platform.linuxfoundation.org/meeting/91492872876?password=af9079e0-fb86-418d-803b-1373ec1fb143&invite=true
 
 ## Untracked attendees
 - Fullname, Affiliation, (optional) GitHub username
@@ -51,10 +51,3 @@ YYYYMMDD - time
 - [ ] AOB
 - [ ] Thanks & Close Out
 
-### Zoom Details
-- https://zoom.us/j/98538837792?pwd=ZHg3QVVnaCtOT0tEZSs5c0hrZTg1dz09
-- **Meeting ID:** 985 3883 7792 
-- **Passcode:** 152455
-
-### Join by Phone
-- Find your local number: https://zoom.us/u/adl5rhui4P
