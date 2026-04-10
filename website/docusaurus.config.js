@@ -41,6 +41,7 @@ module.exports = {
       items: [
         {to: 'docs/home', label: 'Getting Started', position: 'right'},
         {to: 'docs/team', label: 'Team', position: 'right'},
+        {to: 'videos', label: 'Videos', position: 'right'},
         {
           href: 'https://github.com/finos/zenith',
           label: 'GitHub',

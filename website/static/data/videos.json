@@ -1,0 +1,74 @@
+[
+  {
+    "id": "dQw4w9WgXcQ",
+    "youtubeId": "dQw4w9WgXcQ",
+    "title": "Introduction to Quantum Computing",
+    "description": "A comprehensive introduction to quantum computing fundamentals, including qubits, superposition, and entanglement.",
+    "categories": ["quantum"],
+    "publishedDate": "2024-01-15",
+    "presenter": "Dr. Alice Chen"
+  },
+  {
+    "id": "jNQXAC9IVRw",
+    "youtubeId": "jNQXAC9IVRw",
+    "title": "XR in Enterprise: Current Applications",
+    "description": "Exploring practical applications of Extended Reality (XR) in enterprise environments, from AR to VR solutions.",
+    "categories": ["XR"],
+    "publishedDate": "2024-02-10",
+    "presenter": "Michael Rodriguez"
+  },
+  {
+    "id": "9bZkp7q19f0",
+    "youtubeId": "9bZkp7q19f0",
+    "title": "AI for Financial Services",
+    "description": "How artificial intelligence is transforming financial services, from risk management to customer experience.",
+    "categories": ["AI"],
+    "publishedDate": "2024-02-20",
+    "presenter": "Sarah Williams"
+  },
+  {
+    "id": "OPf0YbXqDm0",
+    "youtubeId": "OPf0YbXqDm0",
+    "title": "The Future of Space Technology",
+    "description": "Emerging technologies in space exploration, satellite communications, and beyond-Earth industry.",
+    "categories": ["space"],
+    "publishedDate": "2024-03-05",
+    "presenter": "Prof. James Patterson"
+  },
+  {
+    "id": "ucZl6vQ_8Hs",
+    "youtubeId": "ucZl6vQ_8Hs",
+    "title": "Quantum Machine Learning",
+    "description": "Bridging quantum computing and artificial intelligence: quantum algorithms for machine learning tasks.",
+    "categories": ["quantum", "AI"],
+    "publishedDate": "2024-03-12",
+    "presenter": "Dr. Alice Chen"
+  },
+  {
+    "id": "BBJa32lCaaY",
+    "youtubeId": "BBJa32lCaaY",
+    "title": "AR for Retail and E-commerce",
+    "description": "How augmented reality is revolutionizing retail experiences and changing consumer behavior.",
+    "categories": ["XR"],
+    "publishedDate": "2024-03-18",
+    "presenter": "Emma Thompson"
+  },
+  {
+    "id": "W-4hJKEKHG8",
+    "youtubeId": "W-4hJKEKHG8",
+    "title": "Space-based AI Systems",
+    "description": "Integrating artificial intelligence with space technology for autonomous spacecraft and satellite operations.",
+    "categories": ["space", "AI"],
+    "publishedDate": "2024-04-01",
+    "presenter": "Prof. James Patterson"
+  },
+  {
+    "id": "dQw4w9WgXcR",
+    "youtubeId": "dQw4w9WgXcR",
+    "title": "Quantum Error Correction",
+    "description": "Deep dive into quantum error correction techniques essential for building practical quantum computers.",
+    "categories": ["quantum"],
+    "publishedDate": "2024-04-08",
+    "presenter": "Dr. Robert Kumar"
+  }
+]
