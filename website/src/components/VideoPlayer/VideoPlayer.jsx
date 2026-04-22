@@ -56,6 +56,9 @@ export default function VideoPlayer() {
       );
     }
 
+    // Sort by publish date (newest first)
+    filtered.sort((a, b) => new Date(b.publishedDate) - new Date(a.publishedDate));
+
     setFilteredVideos(filtered);
   }, [videos, selectedCategories, searchQuery]);
 
