@@ -34,8 +34,8 @@ function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted
               )}
-              to={'https://github.com/finos/zenith'}>
-              GITHUB
+              to={'/videos'}>
+              VIDEOS
             </Link>
             <Link
               className={classnames(
