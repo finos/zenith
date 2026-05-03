@@ -111,7 +111,7 @@
     "id":"tLQSnhgtqF0",
     "youtubeId": "tLQSnhgtqF0",
     "title": "Building the Brain Trust: Unleashing the Power of Emerging Technologies in FinTech",
-    "description": "Let's deep dive into what the Brain Trust is all about within the ‪FINOS‬ Zenith emerging technology special interest group.",
+    "description": "Let's deep dive into what the Brain Trust is all about within the FINOS Zenith emerging technology special interest group.",
     "categories": [],
     "publishedDate": "2023-07-07",
     "presenter": "Keith O'Donnell, Feynic Technology"
@@ -120,7 +120,7 @@
     "id":"Aze8AFFCAEc",
     "youtubeId": "Aze8AFFCAEc",
     "title": "Zenith Podcast Ep 1: Exploring Emerging Tech in FinTech",
-    "description": "Join Keith & Pat as they talk over their adventure so far in ‪FINOS‬ and the Zenith SIG program. The first in the Zenith podcast series.",
+    "description": "Join Keith & Pat as they talk over their adventure so far in FINOS and the Zenith SIG program. The first in the Zenith podcast series.",
     "categories": [],
     "publishedDate": "2023-09-27",
     "presenter": "Keith O'Donnell, Feynic Technology, Patrick Downing, GitHub"
@@ -232,5 +232,14 @@
     "categories": ["quantum","XR"],
     "publishedDate": "2026-03-26",
     "presenter": "Peter Smulovics, Morgan Stanley"
+  },
+  {
+    "id":"cgxQBnZ732o",
+    "youtubeId": "cgxQBnZ732o",
+    "title": "How to respond to the quantum computing threat to cybersecurity",
+    "description": "Carmen Recio from Moody's presents to the FINOS Community on “How to respond to the quantum computing threat to cybersecurity”",
+    "categories": ["quantum"],
+    "publishedDate": "2025-07-21",
+    "presenter": "Carmen Recio, Moody's"
   }
 ]
