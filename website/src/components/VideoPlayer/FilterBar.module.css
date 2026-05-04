@@ -1,0 +1,133 @@
+.filterBar {
+  background: white;
+  border-radius: 8px;
+  padding: 2rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.searchSection {
+  margin-bottom: 2rem;
+}
+
+.searchInput {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
+  border: 2px solid #e0e0e0;
+  border-radius: 6px;
+  font-family: inherit;
+  transition: border-color 0.2s ease;
+}
+
+.searchInput:focus {
+  outline: none;
+  border-color: #0066cc;
+  box-shadow: 0 0 0 3px rgba(0, 102, 204, 0.1);
+}
+
+.categorySection {
+  margin-bottom: 1.5rem;
+}
+
+.label {
+  display: block;
+  font-weight: 600;
+  color: #1a1a1a;
+  margin-bottom: 0.75rem;
+}
+
+.categoryButtons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.categoryButton {
+  padding: 0.5rem 1.25rem;
+  border: 2px solid #e0e0e0;
+  background: white;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  text-transform: capitalize;
+  font-family: inherit;
+}
+
+.categoryButton:hover {
+  border-color: #0066cc;
+  color: #0066cc;
+}
+
+.categoryButton.active {
+  background: #0066cc;
+  border-color: #0066cc;
+  color: white;
+}
+
+.clearButton {
+  padding: 0.5rem 1.25rem;
+  border: 2px solid #d32f2f;
+  background: white;
+  color: #d32f2f;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-family: inherit;
+}
+
+.clearButton:hover {
+  background: #ffebee;
+}
+
+.resultsInfo {
+  text-align: right;
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 1rem;
+}
+
+@media (max-width: 768px) {
+  .filterBar {
+    padding: 1.5rem;
+  }
+
+  .categoryButtons {
+    gap: 0.5rem;
+  }
+
+  .categoryButton,
+  .clearButton {
+    padding: 0.5rem 1rem;
+    font-size: 0.85rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .filterBar {
+    padding: 1rem;
+  }
+
+  .searchInput {
+    padding: 0.6rem 0.8rem;
+    font-size: 0.95rem;
+  }
+
+  .categoryButtons {
+    gap: 0.5rem;
+  }
+
+  .categoryButton,
+  .clearButton {
+    padding: 0.4rem 0.8rem;
+    font-size: 0.8rem;
+  }
+
+  .resultsInfo {
+    font-size: 0.85rem;
+  }
+}

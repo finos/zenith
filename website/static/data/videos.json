@@ -1,0 +1,245 @@
+[
+  {
+    "id": "bYfNeKEGm8A",
+    "youtubeId": "bYfNeKEGm8A",
+    "title": "Emerging Technologies: The Spatial Computing Panel",
+    "description": "Listen to industry experts and active practitioners discussing the applicability of Spatial Computing for Financial Services, the implications around open standardization, and where does this industry and topic leads us in the next 5 years.",
+    "categories": ["XR"],
+    "publishedDate": "2023-11-12",
+    "presenter": "Domhnaill Hernon - EY, Michael Potts - Polycount.io, Bri Scully, Brooke Tuscai - Vanguard & Moderated by Peter Smulovics - Morgan Stanley"
+  },
+  {
+    "id": "YeaX3dHWYcc",
+    "youtubeId": "YeaX3dHWYcc",
+    "title": "Emerging Technology in Open Source",
+    "description": "Join me for a dynamic exploration into the power of community-led innovation in today's tech landscape. In this talk, we dive deep into how emerging technologies like AI, DLT, and Telecommunications are shaping our world. Discover how collaborative efforts, spearheaded by Zenith (the Emerging Technology special interest group), are breaking down barriers in understanding, implementing, and commercializing cutting-edge technologies. Through captivating examples and real-world case studies, you'll gain insights into how community-driven initiatives are driving progress in the fast-paced realm of horizon tech. Don't miss this opportunity to uncover the secrets behind successful tech adoption and transformation. Let's navigate the future together!",
+    "categories": [],
+    "publishedDate": "2024-07-12",
+    "presenter": "Keith O'Donnell, Feynic Technology"
+  },
+  {
+    "id": "YUS-yJJ4kGU",
+    "youtubeId": "YUS-yJJ4kGU",
+    "title": "Emerging Technologies: The Quantum Computing Panel",
+    "description": "Listen to industry experts and active practitioners discussing the applicability of Quantum Computing for Financial Services along with Post Quantum Cryptography, the implications around open standardization, and where does this industry and topic leads us in the next 5 years. For more information about Emerging Technologies in FINOS, please do check out https://zenith.finos.org for details!",
+    "categories": ["quantum"],
+    "publishedDate": "2024-10-22",
+    "presenter": "Peter Smulovics, Morgan Stanley; Sergio Gago Huerta, Moody's; Gorka Madariaga, Microsoft; Ruslan Shaydulin, JPMorgan Chase & Moderated by Hilary Carter, The Linux Foundation"
+  },
+  {
+    "id": "nIgTe1g2KfM",
+    "youtubeId": "nIgTe1g2KfM",
+    "title": "From Research to Production: Getting value from quantum teams in the financial industry",
+    "description": " From Research to Production: Getting value from quantum teams in the financial industry - Carmen Recio Valcarce, Moody's",
+    "categories": ["quantum"],
+    "publishedDate": "2024-10-30",
+    "presenter": "Carmen Recio Valcarce, Moody's"
+  },
+  {
+    "id": "IQULK_TUIYQ",
+    "youtubeId": "IQULK_TUIYQ",
+    "title": "Extended Reality in the Financial Industry in 2025 January",
+    "description": "Extended Reality in the Financial Industry in 2025 January - Michael Potts, Polycount.io",
+    "categories": ["XR"],
+    "publishedDate": "2025-02-03",
+    "presenter": "Michael Potts, Polycount.io"
+  },
+  {
+    "id": "N9oYDiPXe4A",
+    "youtubeId": "N9oYDiPXe4A",
+    "title": "NVIDIA Presentation: Driving the Generative AI Powered Enterprise with NIM",
+    "description": "Driving the Generative AI Powered Enterprise with NIM – Dr Janaki Vamaraju, Dr Jochen Papenbrock - NVIDIA",
+    "categories": ["AI"],
+    "publishedDate": "2025-02-07",
+    "presenter": "Dr Janaki Vamaraju, NVIDIA, Dr Jochen Papenbrock, NVIDIA"
+  },
+  {
+    "id": "kKycCFZpP84",
+    "youtubeId": "kKycCFZpP84",
+    "title": "Zenith SIG discussion on Quantum Computing Breakthroughs",
+    "description": "Exploring Quantum Breakthroughs – Microsoft’s Majorana 1 & Google’s Willow",
+    "categories": ["quantum"],
+    "publishedDate": "2025-03-18",
+    "presenter": "Peter Smulovics, Morgan Stanley"
+  },
+  {
+    "id": "H5SSvFXZvoI",
+    "youtubeId": "H5SSvFXZvoI",
+    "title": "Everybody Can Be a Quantum Algorithm Developer",
+    "description": "A journey into how to program quantum computers in plain python, including some card tricks and fun. (Session suitable for technical people, some basic knowledge of python is required)",
+    "categories": ["quantum"],
+    "publishedDate": "2025-03-25",
+    "presenter": "Sergio Gago, Moody's Analytics"
+  },
+  {
+    "id":"w3rS2itjBhc",
+    "youtubeId": "w3rS2itjBhc",
+    "title": "Quantum Computing Ops Platform with QCentroid",
+    "description": "A journey into quantum ops platform: run, benchmark, and deploy quantum + AI workflows across any hardware",
+    "categories": ["quantum"],
+    "publishedDate": "2025-05-19",
+    "presenter": "Carlos Kuchkovsky, QCentroid"
+  },
+  {
+    "id":"3SeHkIti9YI",
+    "youtubeId": "3SeHkIti9YI",
+    "title": "Space Aye - Modeling the Earth One IoT Device at a Time",
+    "description": "Space Aye - Modeling the Earth One IoT Device at a Time",
+    "categories": ["space"],
+    "publishedDate": "2025-05-29",
+    "presenter": "Chris Newlands, Space Aye"
+  },
+  {
+    "id":"3vQ8hmSBKLA",
+    "youtubeId": "3vQ8hmSBKLA",
+    "title": "Exploring Unreal X Real AR Glasses and Voice Analytics with Google Gemini and OpenAI",
+    "description": "In this session, Mark Hu dives into the features of the Unreal X Real AR glasses, highlighting their lightweight design, full support for AR specs, and unique approach to AR live streaming. We compare the architectures of Unreal X Real and Microsoft HoloLens, focusing on resource utilization and streaming efficiency. The session progresses to a demonstration of advanced voice analytics using Google Gemini and OpenAI GPT-4, showcasing real-time voice-to-text transcription, context detection, and interactive avatar responses. Additionally, we explore the integration of various GPT models, text-to-image capabilities, and the use of dynamic AI models for diverse applications. The session concludes with an overview of the voice analytics dashboard, providing insights into data visualization and model training.",
+    "categories": ["XR"],
+    "publishedDate": "2025-06-10",
+    "presenter": "Mark Hu"
+  },
+  {
+    "id":"Twx8dR8GwRM",
+    "youtubeId": "Twx8dR8GwRM",
+    "title": "Introducing the Zenith Special Interest Group: Breaking Barriers in Finance and Tech",
+    "description": "In this episode, Keith O'Donnell, co-chair of the Zenith Special Interest Group and head of Feynic Technology, provides an overview of the group's mission to overcome barriers for common adoption of emerging technologies in finance and technology. Key topics include primers inspired by Neal Stevenson's 'The Diamond Age,' the establishment of a brain trust, the Proof of Concept (POC) program, and examples of technologies such as robotic process automation, crypto agility, and natural language processing. Learn how the group aims to drive industry-wide innovation through collaborative, open-source efforts.",
+    "categories": [],
+    "publishedDate": "2023-07-07",
+    "presenter": "Keith O'Donnell, Feynic Technology"
+  },
+  {
+    "id":"tLQSnhgtqF0",
+    "youtubeId": "tLQSnhgtqF0",
+    "title": "Building the Brain Trust: Unleashing the Power of Emerging Technologies in FinTech",
+    "description": "Let's deep dive into what the Brain Trust is all about within the FINOS Zenith emerging technology special interest group.",
+    "categories": [],
+    "publishedDate": "2023-07-07",
+    "presenter": "Keith O'Donnell, Feynic Technology"
+  },
+  {
+    "id":"Aze8AFFCAEc",
+    "youtubeId": "Aze8AFFCAEc",
+    "title": "Zenith Podcast Ep 1: Exploring Emerging Tech in FinTech",
+    "description": "Join Keith & Pat as they talk over their adventure so far in FINOS and the Zenith SIG program. The first in the Zenith podcast series.",
+    "categories": [],
+    "publishedDate": "2023-09-27",
+    "presenter": "Keith O'Donnell, Feynic Technology, Patrick Downing, GitHub"
+  },
+  {
+    "id":"IcuhOLEDkO0",
+    "youtubeId": "IcuhOLEDkO0",
+    "title": "Getting Started with Open Source: Insights from Zenith SIG | Zenith Podcast Ep. 2",
+    "description": "Keith & Pat share their adventures in open-sourcing and explain the best ways to get started.",
+    "categories": [],
+    "publishedDate": "2023-10-20",
+    "presenter": "Keith O'Donnell, Feynic Technology, Patrick Downing, GitHub"
+  },
+  {
+    "id":"6LBD5B__5Ew",
+    "youtubeId": "6LBD5B__5Ew",
+    "title": "Benchmarking Financial AI Agents: Insights from Secure Fing AI Lab, Columbia University",
+    "description": "In this video, Shaan Liu from the Secure Fing AI Lab at Columbia University provides an in-depth presentation on the lab's ongoing projects and collaborations. The agenda includes an overview of the FIN GBD multi-model roadmap, demonstrations of various financial agents like tutor agents and search agents, and discussions on financial reinforcement learning frameworks and generative pretrained transformers. The session also covers the development of financial AI agents and their applications, including stock trading and sentiment analysis. The presentation concludes with the introduction of the Open Financial LLM Leaderboard designed to evaluate and benchmark these AI models, and encourages contributions from academia, industry, and the open-source community.",
+    "categories": ["AI"],
+    "publishedDate": "2025-07-01",
+    "presenter": "Shean Liu, Columbia University"
+  },
+  {
+    "id":"VuRQV4YW_Kk",
+    "youtubeId": "VuRQV4YW_Kk",
+    "title": "Arthur One: AI, robots, XR and more",
+    "description": "Ricky Houck from Arthur presents on Arthur One, AI, robots, XR and more to the FINOS Community. https://arthur.digital",
+    "categories": ["XR"],
+    "publishedDate": "2025-07-09",
+    "presenter": "Ricky Houck, Arthur"
+  },
+  {
+    "id":"LMr_doFfhtg",
+    "youtubeId": "LMr_doFfhtg",
+    "title": "IBM's Perspective on Quantum Computing in Financial Services",
+    "description": "IBM's Perspective on Quantum Computing in Financial Services",
+    "categories": ["quantum"],
+    "publishedDate": "2025-09-19",
+    "presenter": "Dr Manuel Proissl, IBM"
+  },
+  {
+    "id":"M9G8Kue0eXk",
+    "youtubeId": "M9G8Kue0eXk",
+    "title": "Extended Reality Updates from Meta Connect",
+    "description": "Extended Reality Updates from Meta Connect",
+    "categories": ["XR"],
+    "publishedDate": "2025-10-10",
+    "presenter": "Jason Marsh, Flow Immersive and Michael Potts, Polycount"
+  },
+  {
+    "id":"W09RsLZbz-w",
+    "youtubeId": "W09RsLZbz-w",
+    "title": "Quantum & Extended Reality",
+    "description": "Quantum & Extended Reality",
+    "categories": ["quantum","XR"],
+    "publishedDate": "2025-11-19",
+    "presenter": "Michael Potts, Polycount, Ruslan Shaydulin, JPMorgan"
+  },
+  {
+    "id":"bxV5eAffX-o",
+    "youtubeId": "bxV5eAffX-o",
+    "title": "How to Create Moonshot Solutions with AI",
+    "description": "How to Create Moonshot Solutions with AI",
+    "categories": ["AI"],
+    "publishedDate": "2025-12-28",
+    "presenter": "Peter Ward, SoHo Dragon"
+  },
+  {
+    "id":"M4LnDhyLN6g",
+    "youtubeId": "M4LnDhyLN6g",
+    "title": "Quantum & Extended Reality with Peter Smulovics",
+    "description": "The video delves into the exciting convergence of Android and extended reality, showcasing its positive reception and open nature, representing a significant new tech advancement. It also highlights D-Wave's contributions to commercial quantum computing and Microsoft's holoportation software, demonstrating future technology applications like telepresence in telemedicine. This integration signifies a major step forward in immersive computing and its practical uses.",
+    "categories": ["quantum","XR"],
+    "publishedDate": "2026-01-15",
+    "presenter": "Peter Smulovics, Morgan Stanley"
+  },
+  {
+    "id":"HSEZTIbT7M8",
+    "youtubeId": "HSEZTIbT7M8",
+    "title": "Transforming Meeting Transcripts into Data: Open Source Insights from Vexa.AI's Dmitry Grankin",
+    "description": "Join us in our latest meeting featuring special guest Dmitry Grankin from Vexa.AI. Dmitry discusses his innovative approach to treating meetings as a valuable data source for AI in organizations. He dives into the unique challenges and opportunities of working with meeting data compared to other data domains like code and email. The presentation highlights the importance of robust infrastructure, modular systems, and the role of AI in extracting valuable insights from meetings. Learn about Vexa.AI's solutions, including continuous data capture, transcription services, and the integration of AI to manage data ambiguity. This discussion also touches on supported platforms, POCs, and the technical requirements for deploying these solutions. Stay tuned for a comprehensive exploration of how AI can revolutionize meeting management and data utilization.",
+    "categories": ["AI"],
+    "publishedDate": "2026-02-09",
+    "presenter": "Dmitry Grankin, Vexa.AI"
+  },
+  {
+    "id":"3uC3s5fzQgE",
+    "youtubeId": "3uC3s5fzQgE",
+    "title": "Quantum-Ready Pharma: PexMachina CEO Matthias Kaiser on Practical Quantum Applications",
+    "description": "Matthias Kaiser, CEO and co-founder of PexMachina, presents on how quantum computing is affecting industries beyond finance, focusing on pharma and computational chemistry. Kaiser, trained in quantum information theory, describes returning to the quantum field, founding PexMachina with a CTO specializing in quantum molecular interactions, and partnering with a pharma veteran from Johnson & Johnson. He argues today’s quantum hardware isn’t ready for meaningful production use, so PexMachina builds “quantum-ready” solutions using quantum-native (quantum-inspired) algorithms that run on GPUs now and can later transition to quantum hardware. PexMachina applies quantum simulation to engineer molecules for better cancer treatments by improving docking, efficacy, stability, and reducing toxicity, emphasizing that real quantum value will emerge first in niches and requires deep industry understanding.",
+    "categories": ["quantum"],
+    "publishedDate": "2026-02-27",
+    "presenter": "Matthias Kaiser, PexMachina"
+  },
+  {
+    "id":"lrqPJ6kNxUM",
+    "youtubeId": "lrqPJ6kNxUM",
+    "title": "AI as a Tool, Not a Crutch: Digital Tutors, Guardrails, and the Future of Work",
+    "description": "Joe Mallit, Microsoft Director of Area Support, shares practical perspectives on using AI with guardrails—from treating AI as a “digital tutor” that supports learning without replacing it, to preparing future workers to use AI while still understanding their business. The discussion explores productivity gains versus risks, prompt safety, and emerging real-world uses such as monitoring agents and rapidly building helpdesk agents with Copilot Studio. Joe also highlights how Microsoft support teams use Copilot today for case summarization, log analysis, and intelligent case routing, while the conversation raises broader concerns around AI-driven GitHub scraping, maintaining open-source sustainability, and the growing capabilities of AI in mathematics.",
+    "categories": ["AI"],
+    "publishedDate": "2026-03-13",
+    "presenter": "Joe Mallit, Microsoft"
+  },
+  {
+    "id":"9RVnWoztLl4",
+    "youtubeId": "9RVnWoztLl4",
+    "title": "Quantum & Extended Reality with Peter Smulovics (Morgan Stanley)",
+    "description": "Peter Smulovics, Morgan Stanley, shares an update on the convergence of XR/spatial computing and quantum computing with AI, cloud, IoT, digital twins, robotics, and real-time pipelines that sense, understand, simulate, decide, and act. XR is described as moving beyond headsets into intelligent spatial systems used operationally in factories, cities, and healthcare, with enterprise momentum rising while consumer headset hype cools; XR is framed as a tool like CAD/SCADA rather than “the new iPhone.” Quantum is presented as shifting from research toward early pilots, driven by major government and ecosystem investment (including the UK), with hybrid quantum-classical architectures and “reliable qubits” and error correction becoming central. Discussion touches on NVIDIA GTC themes, practical use cases in finance, pharma, logistics, and manufacturing, the growing role of physical AI and elder-care robots, and ways to track quantum progress via conferences, newsletters, patents, simulators, and evolving tooling.",
+    "categories": ["quantum","XR"],
+    "publishedDate": "2026-03-26",
+    "presenter": "Peter Smulovics, Morgan Stanley"
+  },
+  {
+    "id":"cgxQBnZ732o",
+    "youtubeId": "cgxQBnZ732o",
+    "title": "How to respond to the quantum computing threat to cybersecurity",
+    "description": "Carmen Recio from Moody's presents to the FINOS Community on “How to respond to the quantum computing threat to cybersecurity”",
+    "categories": ["quantum"],
+    "publishedDate": "2025-07-21",
+    "presenter": "Carmen Recio, Moody's"
+  }
+]
