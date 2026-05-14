@@ -241,5 +241,14 @@
     "categories": ["quantum"],
     "publishedDate": "2025-07-21",
     "presenter": "Carmen Recio, Moody's"
+  },
+  {
+    "id":"IVbqf_pY6y8",
+    "youtubeId": "IVbqf_pY6y8",
+    "title": "When AI is the Bleeding Cut Technology in XR",
+    "description": "James Ashley shares his XR background from Kinect and HoloLens through Magic Leap, Walmart, CVS, Fidelity, and SteelBlue, with recent work focused on Apple Vision Pro since late 2023. The discussion argues XR momentum is shifting from feature-heavy headsets back toward lighter glasses, influenced by devices like Ray-Ban glasses and a growing focus on comfort. They explore how AI coding could accelerate XR by making difficult mixed reality development easier, enabling faster iteration and reducing barriers to building apps, though market economics and small device adoption still limit investment. James suggests killer apps must deliver unique value beyond porting phone experiences, highlights Apple’s SharePlay infrastructure while noting shared experiences are complex, and proposes education-focused 3D learning (e.g., making quaternions intuitive) as promising. They debate isomorphic vs infographic-style UI, discuss VR’s focus benefits for training, and describe Blender MCP as a powerful AI-to-app integration that can rapidly generate and refine 3D scenes and even update tooling.",
+    "categories": ["XR"],
+    "publishedDate": "2026-05-08",
+    "presenter": "James Ashley, Steelblue"
   }
 ]
