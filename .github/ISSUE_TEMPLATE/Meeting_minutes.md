@@ -3,7 +3,7 @@ name: "\U0001F91D Emerging Technologies Meeting Agenda"
 about: To track Emerging Technologies meeting agenda, minutes and attendance
 title: DD MMM YYYY - Emerging Technologies Meeting Agenda
 labels: meeting
-assignees: smulovic,tenatzen,padraignix
+assignees: smulovic,ma-reddy,jmasessa
 ---
 
 ### Zoom Details
