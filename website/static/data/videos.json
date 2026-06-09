@@ -250,5 +250,14 @@
     "categories": ["XR"],
     "publishedDate": "2026-05-08",
     "presenter": "James Ashley, Steelblue"
+  },
+  {
+    "id":"fqJDOzMsnvc",
+    "youtubeId": "fqJDOzMsnvc",
+    "title": "Multi-Adapter Endpoints on AWS: Cost-Optimized Fine-Tuning with QLoRA for Multi-Customer Legal GenAI",
+    "description": "Supreet, a senior GenAI solutions architect at AWS Startups (Frontier AI team), presents a case study on using SageMaker multi-adapter endpoints to support a legal-tech SaaS with multiple customer datasets without deploying multiple model endpoints. After limited success with RAG and prompt engineering, the startup moved to fine-tuning using parameter-efficient QLoRA on an open-weights model (tested with Mistral 7B) to reduce cost and training time, training an initial ~100MB dataset in about two hours. A single real-time endpoint hosts the base model while multiple small adapters (about 50–200MB) are swapped in milliseconds via routing logic (implemented with AWS Lambda and keyword/LLM-based hybrid routing) to meet sub-5-second latency targets. Supreet emphasizes adapter-level evaluations using NLP metrics and LLM-as-a-judge with SME input, plus an AWS architecture involving S3, SageMaker training/evaluation, model registry, API Gateway, and monitoring.",
+    "categories": ["AI"],
+    "publishedDate": "2026-05-22",
+    "presenter": "Supreet Kaur, AWS"
   }
 ]
