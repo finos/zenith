@@ -268,5 +268,14 @@
     "categories": [],
     "publishedDate": "2026-06-11",
     "presenter": "Karl Moll, FINOS"
+  },
+  {
+    "id":"xY6Rqa5O9kQ",
+    "youtubeId": "xY6Rqa5O9kQ",
+    "title": "Future of (vibe) Coding",
+    "description": "Dr. Dave Gode (AI PhD, IBM) discusses why “vibe coding” is risky for enterprises and how spec-driven development (SDD) can shift control points earlier in the SDLC to reduce bad pull requests and security flaws. He explains how AI coding IDEs are evolving into platforms with skills, plugins, hooks, and marketplaces, and why effective AI development requires structured, AI-ready specifications, maker-checker patterns with model isolation, and curated human-authored guidance. The conversation explores making the spec the key IP, enabling portability and “right to rebuild,” contrasts SDD with older model-driven approaches, and looks at how AI elevates roles toward architecture and communication while challenging universities to teach faster learning and curiosity.",
+    "categories": ["AI"],
+    "publishedDate": "2026-06-23",
+    "presenter": "Dr Dave Goad, IBM"
   }
 ]
