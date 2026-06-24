@@ -259,5 +259,23 @@
     "categories": ["AI"],
     "publishedDate": "2026-05-22",
     "presenter": "Supreet Kaur, AWS"
+  },
+  {
+    "id":"mteH5Gw1wKc",
+    "youtubeId": "mteH5Gw1wKc",
+    "title": "Governance, Controls & Architecture with Karl Moll FINOS",
+    "description": "Karl Moll, technical project advocate at FINOS, explains how FINOS is collaborating across firms and projects to build trust in AI systems for highly regulated industries by connecting governance controls to architecture and deployment. He highlights the problem of many siloed AI governance frameworks with little guidance for operationalization, then outlines a three-project approach: the FINOS AI Governance Framework, Common Cloud Controls, and FINOS CALM. Together, these enable reference architectures, shared compliant patterns, faster compliance review, and continual compliance by ensuring deployed systems match threat-modeled designs. We had a version of this video recorded as part of the Zenith call but had bad sound quality, so we re-recorded it outside of the call.",
+    "categories": [],
+    "publishedDate": "2026-06-11",
+    "presenter": "Karl Moll, FINOS"
+  },
+  {
+    "id":"xY6Rqa5O9kQ",
+    "youtubeId": "xY6Rqa5O9kQ",
+    "title": "Future of (vibe) Coding",
+    "description": "Dr. Dave Gode (AI PhD, IBM) discusses why “vibe coding” is risky for enterprises and how spec-driven development (SDD) can shift control points earlier in the SDLC to reduce bad pull requests and security flaws. He explains how AI coding IDEs are evolving into platforms with skills, plugins, hooks, and marketplaces, and why effective AI development requires structured, AI-ready specifications, maker-checker patterns with model isolation, and curated human-authored guidance. The conversation explores making the spec the key IP, enabling portability and “right to rebuild,” contrasts SDD with older model-driven approaches, and looks at how AI elevates roles toward architecture and communication while challenging universities to teach faster learning and curiosity.",
+    "categories": ["AI"],
+    "publishedDate": "2026-06-23",
+    "presenter": "Dr Dave Goad, IBM"
   }
 ]
