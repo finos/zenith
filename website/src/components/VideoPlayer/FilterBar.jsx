@@ -5,6 +5,7 @@ export default function FilterBar({
   categories,
   selectedCategories,
   onCategoryToggle,
+  onClearFilters,
   searchQuery,
   onSearch,
   totalVideos,
@@ -39,9 +40,7 @@ export default function FilterBar({
           {selectedCategories.length > 0 && (
             <button
               className={styles.clearButton}
-              onClick={() =>
-                selectedCategories.forEach(cat => onCategoryToggle(cat))
-              }
+              onClick={onClearFilters}
             >
               Clear Filters
             </button>

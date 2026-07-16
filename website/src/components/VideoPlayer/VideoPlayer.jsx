@@ -5,15 +5,33 @@ import FilterBar from './FilterBar.jsx';
 import VideoModal from './VideoModal.jsx';
 
 export default function VideoPlayer() {
+  const CATEGORIES = ['quantum', 'XR', 'AI', 'space'];
+  const SEARCH_PARAM = 'search';
+  const TAGS_PARAM = 'tags';
+
+  const getInitialFilters = () => {
+    if (typeof window === 'undefined') {
+      return { initialCategories: [], initialSearch: '' };
+    }
+
+    const params = new URLSearchParams(window.location.search);
+    const initialSearch = params.get(SEARCH_PARAM) || '';
+    const initialCategories = (params.get(TAGS_PARAM) || '')
+      .split(',')
+      .map(tag => tag.trim())
+      .filter(tag => CATEGORIES.includes(tag));
+
+    return { initialCategories, initialSearch };
+  };
+
+  const { initialCategories, initialSearch } = getInitialFilters();
   const [videos, setVideos] = useState([]);
   const [filteredVideos, setFilteredVideos] = useState([]);
-  const [selectedCategories, setSelectedCategories] = useState([]);
-  const [searchQuery, setSearchQuery] = useState('');
+  const [selectedCategories, setSelectedCategories] = useState(initialCategories);
+  const [searchQuery, setSearchQuery] = useState(initialSearch);
   const [selectedVideo, setSelectedVideo] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
-
-  const CATEGORIES = ['quantum', 'XR', 'AI', 'space'];
 
   // Load videos from JSON
   useEffect(() => {
@@ -74,6 +92,57 @@ export default function VideoPlayer() {
     setSearchQuery(query);
   };
 
+  const handleClearFilters = () => {
+    setSelectedCategories([]);
+  };
+
+  useEffect(() => {
+    if (typeof window === 'undefined') return;
+
+    const handlePopState = () => {
+      const params = new URLSearchParams(window.location.search);
+      const urlSearch = params.get(SEARCH_PARAM) || '';
+      const urlCategories = (params.get(TAGS_PARAM) || '')
+        .split(',')
+        .map(tag => tag.trim())
+        .filter(tag => CATEGORIES.includes(tag));
+
+      setSearchQuery(urlSearch);
+      setSelectedCategories(urlCategories);
+    };
+
+    window.addEventListener('popstate', handlePopState);
+    return () => window.removeEventListener('popstate', handlePopState);
+  }, []);
+
+  useEffect(() => {
+    if (typeof window === 'undefined') return;
+
+    const params = new URLSearchParams(window.location.search);
+    const nextSearch = searchQuery.trim();
+    const nextTags = [...selectedCategories].sort();
+
+    if (nextSearch) {
+      params.set(SEARCH_PARAM, nextSearch);
+    } else {
+      params.delete(SEARCH_PARAM);
+    }
+
+    if (nextTags.length > 0) {
+      params.set(TAGS_PARAM, nextTags.join(','));
+    } else {
+      params.delete(TAGS_PARAM);
+    }
+
+    const nextQuery = params.toString();
+    const nextUrl = `${window.location.pathname}${nextQuery ? `?${nextQuery}` : ''}${window.location.hash}`;
+    const currentUrl = `${window.location.pathname}${window.location.search}${window.location.hash}`;
+
+    if (nextUrl !== currentUrl) {
+      window.history.pushState({}, '', nextUrl);
+    }
+  }, [selectedCategories, searchQuery]);
+
   if (loading) {
     return (
       <div className={styles.container}>
@@ -101,6 +170,7 @@ export default function VideoPlayer() {
         categories={CATEGORIES}
         selectedCategories={selectedCategories}
         onCategoryToggle={handleCategoryToggle}
+        onClearFilters={handleClearFilters}
         searchQuery={searchQuery}
         onSearch={handleSearch}
         totalVideos={videos.length}
