@@ -277,5 +277,14 @@
     "categories": ["AI"],
     "publishedDate": "2026-06-23",
     "presenter": "Dr Dave Goad, IBM"
+  },
+  {
+    "id":"mmqLMkdydIo",
+    "youtubeId": "mmqLMkdydIo",
+    "title": "Outer Loop vs. Inner Loop: Maximizing Token Efficiency Across 10,000 Repositories",
+    "description": "Erik Seliger (Lead Product Engineer at Sourcegraph) and Robert Lin (Lead Platform Engineer at Sourcegraph) join FINOS Zenith Project Lead Peter Smulovics to break down the mechanics of Agentic Batch Changes. They reveal how implementing a multi-layered agent architecture solves the high economic cost of pure 'vibe coding' by combining deterministic scripting pipelines with localized, token-efficient AI coding models.",
+    "categories": ["AI"],
+    "publishedDate": "2026-07-16",
+    "presenter": "Erik Seliger and Robert Lin, SourceGraph"
   }
 ]
