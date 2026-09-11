@@ -313,5 +313,14 @@
     "categories": ["AI","quantum"],
     "publishedDate": "2026-08-28",
     "presenter": "Dr. Aditya Vikram Kashyap"
+  },
+  {
+    "id": "8wPhraYXptk",
+    "youtubeId": "8wPhraYXptk",
+    "title": "The Shift to Mixed Reality: Why Finance Can't Ignore XR",
+    "description": "On this episode of the FINOS Zenith Podcast, host Peter Smulovics sits down with Christopher Fonte (CTO of CustomerXR) to discuss how Extended Reality (XR), Augmented Reality (AR), and Spatial Computing are transitioning from consumer gaming into enterprise and financial services. Chris shares insights from a decade in the XR industry—explaining how immersive training cuts operational costs and turnover, how spatial hardware (Apple Vision Pro, Meta Horizon OS, Android XR) expands multi-monitor desktop real estate, and how combining spatial interfaces with Generative AI agents unlocks 3D market visualizations and collaborative wealth management advisory.",
+    "categories": ["XR"],
+    "publishedDate": "2026-09-11",
+    "presenter": "Christopher Fonte, CTO of CustomerXR"
   }
 ]
