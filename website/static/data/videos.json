@@ -322,5 +322,14 @@
     "categories": ["XR"],
     "publishedDate": "2026-09-11",
     "presenter": "Christopher Fonte, CTO of CustomerXR"
+  },
+  {
+    "id": "XJQr-eIdtH0",
+    "youtubeId": "XJQr-eIdtH0",
+    "title": "A discussion about how to apply brain neuroplasticity to engineering of learning",
+    "description": "On this episode of the FINOS Zenith Podcast, host Peter Smulovics sits down with neuroscientist Aki Nicolaidis (Co-Founder & Chief Scientist or Visionary Training Resources) to explore how brain neuroplasticity, cognitive science, and 3D virtual reality (VR) environments are transforming professional training. Aki explains the neural circuits behind procedural skill acquisition (cortico-striatal-thalamo-cortical loops), why traditional multiple-choice testing fails to measure true competence, and how high-resolution behavioral analytics (millisecond and millimeter tracking) unlock near-transfer skill acquisition. Discover how VR flight deck simulators achieve 4-day training footprint reductions and how NSF-funded biometric research is paving the way for personalized AI tutors.",
+    "categories": ["AI"],
+    "publishedDate": "2026-10-09",
+    "presenter": "Aki Nikolaidis, Founder of Visionary Training Resources"
   }
 ]
