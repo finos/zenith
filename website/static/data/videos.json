@@ -331,5 +331,14 @@
     "categories": ["AI"],
     "publishedDate": "2026-10-09",
     "presenter": "Aki Nikolaidis, Founder of Visionary Training Resources"
+  },
+  {
+    "id": "QZtDLVHBuOA",
+    "youtubeId": "QZtDLVHBuOA",
+    "title": "Why AI is both over and underhyped at the same time",
+    "description": "Explore why AI in finance is both over and underhyped. Learn to navigate the current technological landscape with clarity. In this conversation on the Open Source in Finance Podcast, Peter Smulovics, Viktor Mikalacz, and Bertalan Lacza from Morgan Stanley discuss the complexities of AI security, LLM capabilities, and enterprise guardrails. Viewers will gain a pragmatic understanding of when to trust AI agents with operational authority and where human judgment remains economically critical in enterprise tech.",
+    "categories": ["AI"],
+    "publishedDate": "2026-11-20",
+    "presenter": "Viktor Mikalacz, Bertalan Lacza"
   }
 ]
